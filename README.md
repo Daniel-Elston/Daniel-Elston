@@ -16,15 +16,16 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Languages and Tools:
+### Languages and Tools:<br/>
+<br/>
 
 
 <img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:2px;" />
-<img align="left" alt="Jupyter" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:50px;"/>
-<img align="left" alt="LaTeX" width="80px" src="https://www.latex-project.org/img/latex-project-logo.svg" style="padding-right:50px;" /> 
-<img align="left" alt="Matlab" width="80px" src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" style="padding-right:50px;" />
+<img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:50px;"/>
+<img align="left" alt="LaTeX" width="160px" src="https://www.latex-project.org/img/latex-project-logo.svg" style="padding-right:50px;" /> 
+<img align="left" alt="Matlab" width="80px" src="https://icon2.cleanpng.com/20180317/xde/kisspng-matlab-mathworks-simulink-statistical-parametric-m-toolbox-pictures-5aaccffea07310.9759914215212748786572.jpg" style="padding-right:50px;" />
 <img align="left" alt="Overleaf" width="80px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:50px;" />
-<img align="left" alt="Agenarisk" width="80px" src="http://www.eecs.qmul.ac.uk/~martin/agena-logo.jpg" style="padding-right:50px;" />
+<img align="left" alt="Agenarisk" width="80px" src="https://static.wixstatic.com/media/8f9118_6c19880f4b6d4346954c08dcb41ed150~mv2.png/v1/fill/w_255,h_35,al_c,usm_0.66_1.00_0.01,enc_auto/8f9118_6c19880f4b6d4346954c08dcb41ed150~mv2.png" style="padding-right:50px;" />
 <img align="left" alt="Pandas" width="80px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:50px;"/>
 <img align="left" alt="Numpy" width="160px" src="https://numpy.org/images/logo.svg" style="padding-right:50px;"/>
 <img align="left" alt="Matplotlib" width="160px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:50px;"/>
