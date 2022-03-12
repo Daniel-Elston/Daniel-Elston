@@ -19,7 +19,7 @@
 ### Languages and Tools:<br/>
 <br/>
 
-<img align="left" alt="Python" width="130px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:1px;"/>
+<img align="left" alt="Python" width="200px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:1px;"/>
 
 <img align="left" alt="Jupyter" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:1px;"/>
 
@@ -50,7 +50,7 @@
 
 <img align="left" alt="librosa" width="80px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:20px;" />
 
-<img align="left" alt="Agenarisk" width="100px" src="https://static.wixstatic.com/media/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png/v1/fill/w_570,h_77,al_c,usm_0.66_1.00_0.01,enc_auto/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png" style="padding-right:10px;" />
+<img align="left" alt="Agenarisk" width="130px" src="https://static.wixstatic.com/media/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png/v1/fill/w_570,h_77,al_c,usm_0.66_1.00_0.01,enc_auto/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png" style="padding-right:10px;" />
 
 <br />
 <br />
