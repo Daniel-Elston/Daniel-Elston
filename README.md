@@ -36,11 +36,11 @@
 <img align="left" alt="Torch" width="45px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:10px;" /><br/>
 <br/>
 
-<img align="left" alt="Pandas" width="120px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:5px;"/>
+<img align="left" alt="Pandas" width="110px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:5px;"/>
 
 <img align="left" alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" style="padding-right:5px;"/>
 
-<img align="left" alt="Matplotlib" width="120px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:5px;"/>
+<img align="left" alt="Matplotlib" width="110px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:5px;"/>
 
 <img align="left" alt="seaborn" width="100px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding-right:10px;"/>
 
