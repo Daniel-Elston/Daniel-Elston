@@ -17,7 +17,7 @@
 ### Languages and Tools:<br/>
 <br/>
 
-<img align="left" alt="Python" width="350px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:1px;"/>
+<img align="left" alt="Python" width="320px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:1px;"/>
 
 <img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:1px;"/>
 
@@ -49,7 +49,7 @@
 
 <img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="Excel" width="40px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:1px;" />
+<img align="left" alt="Excel" width="70px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:1px;" />
 
 <br />
 <br />
