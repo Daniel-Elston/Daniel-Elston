@@ -37,13 +37,13 @@
 <br/>
 
 
-<img align="left" alt="Pandas" width="110px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:5px;"/>
+<img align="left" alt="Pandas" width="110px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" style="padding-right:5px;"/>
+<img align="left" alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="Matplotlib" width="110px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:5px;"/>
+<img align="left" alt="Matplotlib" width="110px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="seaborn" width="100px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding-right:10px;"/>
+<img align="left" alt="seaborn" width="100px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding-right:11px;"/>
 
 <img align="left" alt="scikit" width="80px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" style="padding-right:15px;"/>
 
