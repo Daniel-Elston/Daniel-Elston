@@ -1,5 +1,4 @@
-## Hello! My name is Daniel Elston
-## I am an aspiring Data Scientist 👋
+## Hello! My name is Daniel Elston and I am an aspiring Data Scientist 👋
 
 ---
 
@@ -18,7 +17,7 @@
 
 ---
 
-### Languages and Tools:<br/>
+## Languages and Tools:<br/>
 <br/>
 
 <img align="left" alt="Python" width="310px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:1px;"/>
