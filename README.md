@@ -12,8 +12,8 @@
 <br/>
 ✅	I have completed the following modules: Machine Learning, Data Mining, Statistics for DS and AI, Programming for DS and AI.<br/>
 <br/>
-💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see report) which was awarded a commendation.<br/><br/>
-📫 How to reach me, email1: ec21024@qmul.ac.uk, email2: delstonds@outlook.com<br/>
+💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see report) which was awarded a  commendation.<br/><br/>
+📫 How to reach me, university email: ec21024@qmul.ac.uk, email2: delstonds@outlook.com<br/>
 
 ---
 
