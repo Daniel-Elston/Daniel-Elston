@@ -20,28 +20,26 @@
 
 
 <img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
-<img align="left" alt="Python" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" />
+<img align="left" alt="Python" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:50px;"/>
 <img align="left" alt="Python" width="80px" src="https://www.latex-project.org/img/latex-project-logo.svg" style="padding-right:50px;" /> 
 <img align="left" alt="Python" width="80px" src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" style="padding-right:50px;" />
 <img align="left" alt="Python" width="80px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:50px;" />
 <img align="left" alt="Python" width="80px" src="http://www.eecs.qmul.ac.uk/~martin/agena-logo.jpg" style="padding-right:50px;" />
-<img align="left" alt="Python" width="80px" src="https://pandas.pydata.org/static/img/pandas_white.svg" /><br/>
+<img align="left" alt="Python" width="80px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:50px;"/>
+<img align="left" alt="Python" width="160px" src="https://numpy.org/images/logo.svg" style="padding-right:50px;"/>
+<img align="left" alt="Python" width="160px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:50px;"/>
+<img align="left" alt="Python" width="160px" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer-thumbnail.png" style="padding-right:50px;"/>
+<img align="left" alt="Python" width="160px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding-right:50px;"/><br/>
 <br/>
-<img align="left" alt="Python" width="160px" src="https://numpy.org/images/logo.svg" />
-<img align="left" alt="Python" width="160px" src="https://matplotlib.org/_static/images/logo2.svg" />
-<img align="left" alt="Python" width="160px" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer-thumbnail.png" />
-<img align="left" alt="Python" width="160px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" /><br/>
-<br/>
-<img align="left" alt="Python" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
-<img align="left" alt="Python" width="160px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" />
+<img align="left" alt="Python" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" style="padding-right:50px;"/>
+<img align="left" alt="Python" width="160px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:50px;"/>
 <img align="left" alt="Python" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" style="padding-right:50px;" />
 <img align="left" alt="Python" width="160px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:50px;" /><br/>
 <br/>
 <img align="left" alt="Python" width="160px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="padding-right:50px;" />
 <img align="left" alt="Python" width="160px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:50px;" />
 <img align="left" alt="Python" width="160px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:50px;" />
-<img align="left" alt="Python" width="160px" src="https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png
-" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png" style="padding-right:50px;" />
 
 
 
