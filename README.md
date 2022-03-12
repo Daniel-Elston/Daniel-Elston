@@ -36,7 +36,7 @@
 
 <img align="left" alt="Pandas" width="120px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:5px;"/>
 
-<img align="left" alt="Numpy" width="50px" src="https://numpy.org/images/logo.svg" style="padding-right:5px;"/>
+<img align="left" alt="Numpy" width="40px" src="https://numpy.org/images/logo.svg" style="padding-right:5px;"/>
 
 <img align="left" alt="Matplotlib" width="120px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:5px;"/>
 
@@ -46,7 +46,7 @@
 
 <img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:20px;"/>
 
-<img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:20px;" />
+<img align="left" alt="librosa" width="80px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:20px;" />
 
 <img align="left" alt="Agenarisk" width="140px" src="https://static.wixstatic.com/media/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png/v1/fill/w_570,h_77,al_c,usm_0.66_1.00_0.01,enc_auto/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png" style="padding-right:10px;" />
 
