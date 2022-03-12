@@ -49,7 +49,7 @@
 
 <img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="Excel" width="80px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:1px;" />
+<img align="left" alt="Excel" width="40px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:1px;" />
 
 <br />
 <br />
