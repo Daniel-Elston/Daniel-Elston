@@ -34,9 +34,7 @@
 
 <img align="left" alt="Pytorch" width="55px" src="https://pytorch.org/assets/images/pytorch-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Torch" width="40px" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" style="padding-right:10px;" />
-
-<img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:20px;" /><br/>
+<img align="left" alt="Torch" width="40px" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" style="padding-right:10px;" /><br/>
 <br/>
 
 
@@ -51,6 +49,8 @@
 <img align="left" alt="scikit" width="80px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" style="padding-right:1px;"/>
 
 <img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:1px;"/>
+
+<img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:1px;" />
 
 <img align="left" alt="Excel" width="65px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:1px;"/>
 
