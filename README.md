@@ -31,7 +31,9 @@
 
 <img align="left" alt="Pytorch" width="55px" src="https://pytorch.org/assets/images/pytorch-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Torch" width="45px" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" style="padding-right:10px;" /><br/>
+<img align="left" alt="Torch" width="45px" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" style="padding-right:10px;" />
+
+<img align="left" alt="Torch" width="45px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:10px;" /><br/>
 <br/>
 
 <img align="left" alt="Pandas" width="120px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:5px;"/>
