@@ -24,7 +24,7 @@
 <img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" />
 <img align="left" alt="Python" width="160px" src="https://www.latex-project.org/img/latex-project-logo.svg" style="padding-right:50px;" />
 <img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
-<img align="left" alt="Python" width="160px" src="https://www.overleaf.com/" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:50px;" />
 <img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
 <img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" />
 
