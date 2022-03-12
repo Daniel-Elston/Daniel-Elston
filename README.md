@@ -1,6 +1,10 @@
 ### Hello! 👋
+### My name is Daniel Elston
+### I am an aspiring Data Scientist
 
-👋 My name is @Daniel-Elston, a BSc Physics (Hons) 2:1 Graduate from the University of Bristol. I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
+👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
+<br/>
+🎓 I am a University of Bristol graduate, achieving a 2:1 in my BSc Physics (Hons) and a commendation for an industrial group project with CERN from the University of Bristol.<br/>
 <br/>
 👀 I am interested in using Data Science (DS) to inform strategic decision making and make impact in a business setting. I am particularly interested in strategy and complex problem solving.<br/>
 <br/>
