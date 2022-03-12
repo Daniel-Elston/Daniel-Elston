@@ -21,11 +21,19 @@
 
 <img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
 <img align="left" alt="Python" width="80px" src="https://pbs.twimg.com/profile_images/2224244757/twitter-128x128_400x400.png" style="padding-right:50px;" />
-<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" />
+<img align="left" alt="Python" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" />
 <img align="left" alt="Python" width="160px" src="https://www.latex-project.org/img/latex-project-logo.svg" style="padding-right:50px;" />
-<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" style="padding-right:50px;" />
 <img align="left" alt="Python" width="160px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:50px;" />
-<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="http://www.eecs.qmul.ac.uk/~martin/agena-logo.jpg" style="padding-right:50px;" />
+
+
+<img align="left" alt="Python" width="160px" src="https://pandas.pydata.org/static/img/pandas_white.svg" />
+<img align="left" alt="Python" width="160px" src="https://numpy.org/images/logo.svg" />
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" />
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" />
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" />
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" />
 <img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" />
 
 
