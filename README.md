@@ -43,13 +43,13 @@
 
 <img align="left" alt="Matplotlib" width="110px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="seaborn" width="100px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding-right:11px;"/>
+<img align="left" alt="seaborn" width="100px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="scikit" width="80px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" style="padding-right:15px;"/>
+<img align="left" alt="scikit" width="80px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" style="padding-right:1px;"/>
 
-<img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:20px;"/>
+<img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="Excel" width="50px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:10px;" />
+<img align="left" alt="Excel" width="80px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:1px;" />
 
 <br />
 <br />
