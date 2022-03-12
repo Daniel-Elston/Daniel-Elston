@@ -41,6 +41,19 @@
 <img align="left" alt="Python" width="160px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="padding-right:50px;" />
 <img align="left" alt="Python" width="160px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:50px;" />
 
+<img align="left" alt="Python" width="160px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:50px;" />
+
+https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png
+
+
+
+<img src="/media/2018/08/kitten.jpg" alt="Kitten" title="A cute kitten" width="150" height="100" />
+<img src="https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png
+" alt="Kitten" title="A cute kitten" width="150" height="100" />
+
+
 
 
 <br />
