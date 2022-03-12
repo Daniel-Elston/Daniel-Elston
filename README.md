@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />][webdevplaylist]
+[<img align="left" alt="Python" width="80px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />][webdevplaylist]
 
 
 
