@@ -1,5 +1,5 @@
 # Hello! My name is Daniel Elston and I am an aspiring Data Scientist👋
-
+---
 👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
 <br/>
 🎓 I am a University of Bristol graduate, achieving a 2:1 in BSc Physics (Hons) and a commendation for an industrial group [project][project] with CERN.<br/>
@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />][webdevplaylist]
 
 
 
@@ -27,8 +27,6 @@
 <br />
 
 ---
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
