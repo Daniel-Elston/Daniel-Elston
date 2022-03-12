@@ -25,22 +25,21 @@
 <img align="left" alt="LaTeX" width="160px" src="https://www.latex-project.org/img/latex-project-logo.svg" style="padding-right:50px;" /> 
 <img align="left" alt="Matlab" width="80px" src="https://icon2.cleanpng.com/20180317/xde/kisspng-matlab-mathworks-simulink-statistical-parametric-m-toolbox-pictures-5aaccffea07310.9759914215212748786572.jpg" style="padding-right:50px;" />
 <img align="left" alt="Overleaf" width="80px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:50px;" />
-<img align="left" alt="Agenarisk" width="80px" src="https://static.wixstatic.com/media/8f9118_6c19880f4b6d4346954c08dcb41ed150~mv2.png/v1/fill/w_255,h_35,al_c,usm_0.66_1.00_0.01,enc_auto/8f9118_6c19880f4b6d4346954c08dcb41ed150~mv2.png" style="padding-right:50px;" />
-<img align="left" alt="Pandas" width="80px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:50px;"/>
-<img align="left" alt="Numpy" width="160px" src="https://numpy.org/images/logo.svg" style="padding-right:50px;"/>
+<img align="left" alt="Agenarisk" width="80px" src="https://static.wixstatic.com/media/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png/v1/fill/w_570,h_77,al_c,usm_0.66_1.00_0.01,enc_auto/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png" style="padding-right:50px;" />
+<img align="left" alt="Pandas" width="200px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:50px;"/>
+<img align="left" alt="Numpy" width="80px" src="https://numpy.org/images/logo.svg" style="padding-right:50px;"/>
 <img align="left" alt="Matplotlib" width="160px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:50px;"/>
-<img align="left" alt="scikit" width="160px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" style="padding-right:50px;"/>
+<img align="left" alt="scikit" width="140px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" style="padding-right:50px;"/>
 <img align="left" alt="seaborn" width="160px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding-right:50px;"/><br/>
 <br/>
-<img align="left" alt="Pytorch" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" style="padding-right:50px;"/>
-<img align="left" alt="scipy" width="160px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:50px;"/>
-<img align="left" alt="colab" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" style="padding-right:50px;" />
-<img align="left" alt="librosa" width="160px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:50px;" /><br/>
+<img align="left" alt="Pytorch" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" style="padding-right:50px;"/>
+<img align="left" alt="scipy" width="50px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:50px;"/>
+<img align="left" alt="colab" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" style="padding-right:50px;" />
+<img align="left" alt="librosa" width="140px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:50px;" /><br/>
 <br/>
 <img align="left" alt="mySQL" width="160px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="padding-right:50px;" />
-<img align="left" alt="NLTK" width="160px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:50px;" />
-<img align="left" alt="Python" width="160px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:50px;" />
-<img align="left" alt="Python" width="160px" src="https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png" style="padding-right:50px;" />
+<img align="left" alt="NLTK" width="60px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:50px;" />
+
 
 
 
