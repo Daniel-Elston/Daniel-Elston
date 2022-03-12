@@ -44,7 +44,7 @@
 
 <img align="left" alt="scikit" width="80px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" style="padding-right:15px;"/>
 
-<img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:20px;"/>
+<img align="left" alt="scipy" width="45px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:20px;"/>
 
 <img align="left" alt="librosa" width="80px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:20px;" />
 
