@@ -4,7 +4,7 @@
 
 👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
 <br/>
-🎓 I am a University of Bristol graduate, achieving a 2:1 in BSc Physics (Hons) and a commendation for an industrial group [project][project] with CERN.<br/>
+🎓 I am a University of Bristol graduate, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN].<br/>
 <br/>
 👀 I am interested in using Data Science (DS) to inform strategic decision making and make impact in a business setting. I am particularly interested in strategy and complex problem solving.<br/>
 <br/>
@@ -63,4 +63,4 @@
 
 </details>
 
-[project]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
+[industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
