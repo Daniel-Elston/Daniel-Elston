@@ -1,6 +1,8 @@
-# Hello! My name is Daniel Elston
-# I am an aspiring Data Scientist 👋
+## Hello! My name is Daniel Elston
+## I am an aspiring Data Scientist 👋
+
 ---
+
 👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
 <br/>
 🎓 I am a University of Bristol graduate, achieving a 2:1 in BSc Physics (Hons) and a commendation for an industrial group [project][project] with CERN.<br/>
@@ -14,6 +16,7 @@
 💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see report) which was awarded a commendation.<br/><br/>
 📫 How to reach me, email1: ec21024@qmul.ac.uk, email2: delstonds@outlook.com<br/>
 
+---
 
 ### Languages and Tools:<br/>
 <br/>
