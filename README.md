@@ -13,27 +13,25 @@
 💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see report) which was awarded a commendation.<br/><br/>
 📫 How to reach me, email1: ec21024@qmul.ac.uk, email2: delstonds@outlook.com<br/>
 
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Languages and Tools:<br/>
 <br/>
 
 <img align="left" alt="Python" width="200px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:1px;"/>
 
-<img align="left" alt="Jupyter" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:1px;"/>
+<img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:1px;"/>
 
-<img align="left" alt="colab" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" style="padding-right:1px;" />
+<img align="left" alt="colab" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" style="padding-right:1px;" />
 
-<img align="left" alt="Overleaf" width="40px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:1px;" />
+<img align="left" alt="Overleaf" width="50px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:1px;" />
 
-<img align="left" alt="mySQL" width="65px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="padding-right:10px;" />
+<img align="left" alt="mySQL" width="75px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="padding-right:10px;" />
 
-<img align="left" alt="NLTK" width="35px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:10px;" />
+<img align="left" alt="NLTK" width="45px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:10px;" />
 
-<img align="left" alt="Pytorch" width="35px" src="https://pytorch.org/assets/images/pytorch-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Pytorch" width="45px" src="https://pytorch.org/assets/images/pytorch-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Torch" width="35px" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" style="padding-right:10px;" /><br/>
+<img align="left" alt="Torch" width="45px" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" style="padding-right:10px;" /><br/>
 <br/>
 
 <img align="left" alt="Pandas" width="80px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:5px;"/>
