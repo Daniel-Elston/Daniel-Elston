@@ -33,8 +33,9 @@
 
 <img align="left" alt="Torch" width="45px" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" style="padding-right:10px;" />
 
-<img align="left" alt="Torch" width="45px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:10px;" /><br/>
+<img align="left" alt="librosa" width="80px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:20px;" /><br/>
 <br/>
+
 
 <img align="left" alt="Pandas" width="110px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:5px;"/>
 
@@ -48,7 +49,7 @@
 
 <img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:20px;"/>
 
-<img align="left" alt="librosa" width="80px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:20px;" />
+<img align="left" alt="Excel" width="45px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:10px;" />
 
 <img align="left" alt="Agenarisk" width="140px" src="https://static.wixstatic.com/media/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png/v1/fill/w_570,h_77,al_c,usm_0.66_1.00_0.01,enc_auto/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png" style="padding-right:10px;" />
 
