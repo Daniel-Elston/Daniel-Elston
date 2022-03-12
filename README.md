@@ -19,7 +19,14 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />]
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://pbs.twimg.com/profile_images/2224244757/twitter-128x128_400x400.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
+<img align="left" alt="Python" width="160px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:50px;" />
 
 
 
