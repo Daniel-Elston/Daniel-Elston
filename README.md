@@ -27,7 +27,9 @@
 <img align="left" alt="Overleaf" width="80px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:50px;" />
 <img align="left" alt="Agenarisk" width="80px" src="https://static.wixstatic.com/media/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png/v1/fill/w_570,h_77,al_c,usm_0.66_1.00_0.01,enc_auto/8f9118_347167b760a6402d9b0030d67fab52db~mv2.png" style="padding-right:50px;" />
 <img align="left" alt="Pandas" width="200px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:50px;"/> <br/>
-<br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 <img align="left" alt="Numpy" width="80px" src="https://numpy.org/images/logo.svg" style="padding-right:50px;"/>
 <img align="left" alt="Matplotlib" width="160px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:50px;"/>
