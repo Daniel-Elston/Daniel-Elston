@@ -1,4 +1,5 @@
-# Hello! My name is Daniel Elston and I am an aspiring Data Scientist👋
+# Hello! My name is Daniel Elston
+# I am an aspiring Data Scientist 👋
 ---
 👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
 <br/>
