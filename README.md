@@ -22,13 +22,13 @@
 🌱 I am currently studying the following modules: Neural Networks, Risk and Decision Making for DS and AI, Information Retrieval, Ethics and Law for DS and AI.<br/>
 <br/>
 
-✅	I have completed the following modules: Machine Learning, Data Mining, Statistics for DS and AI, Programming for DS and AI.<br/>
+✅	<sub>I have completed the following modules: Machine Learning, Data Mining, Statistics for DS and AI, Programming for DS and AI.<sub/><br/>
 <br/>
 
 💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see report) which was awarded a        commendation.<br/>
 <br/>
 
-📫 <sub>How to reach me, university email: ec21024@qmul.ac.uk, business email: delstonds@outlook.com</sub>
+📫 How to reach me, university email: ec21024@qmul.ac.uk, business email: delstonds@outlook.com
 <br/>
 
 ---
@@ -39,11 +39,11 @@
 ## Languages and Tools:<br/>
 <br/>
 
-<img align="left" alt="Python" width="200px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:1px;"/>
+<img align="left" alt="Python" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:1px;"/>
+<img align="left" alt="Jupyter" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:1px;"/>
 
-<img align="left" alt="colab" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" style="padding-right:1px;"/>
+<img align="left" alt="colab" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" style="padding-right:1px;"/>
 
 <img align="left" alt="Overleaf" width="50px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:1px;"/>
 
@@ -71,10 +71,10 @@
 
 <img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:1px;" />
+<img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:1px;" /><br/>
+<br/>
 
-<br/>
-<br/>
+---
 
 <br/>
 <br/>
