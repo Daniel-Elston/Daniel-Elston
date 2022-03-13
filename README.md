@@ -2,6 +2,9 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=Daniel-ELston) [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
+
+
 👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
 <br/>
 🎓 I am a University of Bristol graduate, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN].<br/>
@@ -62,10 +65,10 @@
 ---
 
 <a href="https://github.com/Daniel-Elston/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=dark&hide=issues,prs", height='120' />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='120' />
 </a>
 <a href="https://wakatime.com/@Daniel_Elston">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=dark", height='120' />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=github_dark", height='120' />
 </a>
 
 ---
