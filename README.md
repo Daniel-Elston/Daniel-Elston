@@ -1,7 +1,3 @@
-hello
-
-
-
 ## Hello! My name is Daniel Elston and I am an aspiring Data Scientist 👋
 
 ---
@@ -65,6 +61,14 @@ hello
 
 ---
 
+<a href="https://github.com/Daniel-Elston/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=dark&hide=issues,prs" />
+</a>
+<a href="https://github.com/Daniel-Elston/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&show_icons=true&theme=dark" />
+</a>
+
+---
 </details>
 
 [industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
