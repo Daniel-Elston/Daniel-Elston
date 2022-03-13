@@ -1,7 +1,6 @@
 ## Hello! My name is Daniel Elston and I am an aspiring Data Scientist 👋
 
 ---
-[![wakatime](https://wakatime.com/badge/user/65cc1c1c-b124-4a80-975a-e59a238d2345.svg)](https://wakatime.com/@65cc1c1c-b124-4a80-975a-e59a238d2345)
 
 👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
 <br/>
@@ -63,10 +62,10 @@
 ---
 
 <a href="https://github.com/Daniel-Elston/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=dark&hide=issues,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=dark&hide=issues,prs", height='120' />
 </a>
 <a href="https://wakatime.com/@Daniel_Elston">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=dark", height='120' />
 </a>
 
 ---
