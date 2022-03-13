@@ -71,7 +71,7 @@
 
 <img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:1px;" />
 
-<img align="left" alt="Excel" width="65px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:1px;"/><br/>
+<br/>
 <br/>
 
 <br/>
