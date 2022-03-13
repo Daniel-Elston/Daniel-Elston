@@ -1,4 +1,4 @@
-<h2 align="center"> Hello! 👋  My name is Daniel Elston & I am an aspiring Data Scientist </h2><br/>
+<h2 align="center"> Hello! 👋  My name is Daniel Elston & I am an aspiring Data Scientist </h2>
 
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner3.png)
 
