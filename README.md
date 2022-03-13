@@ -53,7 +53,10 @@
 
 <img align="left" alt="Pytorch" width="55px" src="https://pytorch.org/assets/images/pytorch-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Torch" width="40px" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" style="padding-right:10px;" /><br/>
+  
+<img align="left" alt="TensorFlow" width="45px" src="https://symbols-electrical.getvecta.com/stencil_97/43_tensorflow-icon.07309df606.svg" style="padding-right:5px;"/>
+
+<img align="left" alt="Torch" width="45px" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" style="padding-right:10px;" /><br/>
 <br/>
 <br/>
 
