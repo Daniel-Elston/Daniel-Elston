@@ -1,7 +1,7 @@
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner2.png)
 
 <h2 align="center"> Hello! 👋  My name is Daniel Elston & I am an aspiring Data Scientist </h2>
----
+
 
 ![](https://komarev.com/ghpvc/?username=Daniel-ELston) 
 [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
@@ -63,18 +63,31 @@
 
 <br />
 <br />
+<br />
+<br />
 
----
 
 <a href="https://github.com/Daniel-Elston/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='120' />
 </a>
-<a href="https://wakatime.com/@Daniel_Elston">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=github_dark", height='120' />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='120' />
 </a>
 
+<br />
+<br />
+<br />
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Daniel-Elston/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='100' />
+</a>
+<a href="https://wakatime.com/@Daniel_Elston">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=github_dark", height='100' />
+</a>
+<a href="https://github.com/Daniel-Elston/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='100' />
+</a>
 
 
 
