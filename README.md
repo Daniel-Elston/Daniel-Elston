@@ -1,11 +1,10 @@
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner2.png)
 
-## Hello! 👋  My name is Daniel Elston & I am an aspiring Data Scientist
-
-
+<h2 align="center"> Hello! 👋  My name is Daniel Elston & I am an aspiring Data Scientist </h2>
 ---
 
-![](https://komarev.com/ghpvc/?username=Daniel-ELston) [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
+![](https://komarev.com/ghpvc/?username=Daniel-ELston) 
+[![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
 
 
 👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
