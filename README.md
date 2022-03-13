@@ -1,10 +1,11 @@
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner2.png)
 
-<h2 align="center"> Hello! 👋  My name is Daniel Elston & I am an aspiring Data Scientist </h2>
+<h2 align="center"> Hello! 👋  My name is Daniel Elston & I am an aspiring Data Scientist </h2><br/>
 
 
 ![](https://komarev.com/ghpvc/?username=Daniel-ELston) 
 [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
+<h3 align="right">:warning: Profile Currently Under Construction :hourglass_flowing_sand:	 </h3><br/>
 
 
 👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
@@ -23,6 +24,9 @@
 <br/>
 
 ---
+
+<br/>
+<br/>
 
 ## Languages and Tools:<br/>
 <br/>
@@ -59,13 +63,16 @@
 
 <img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:1px;" />
 
-<img align="left" alt="Excel" width="65px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:1px;"/>
+<img align="left" alt="Excel" width="65px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" style="padding-right:1px;"/><br/>
+<br/>
 
-<br />
-<br />
-<br />
-<br />
+---
 
+<br/>
+<br/>
+
+## GitHub Profile Statistics:<br/>
+<br/>
 
 <a href="https://github.com/Daniel-Elston/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='119' />
@@ -80,16 +87,14 @@
 <br />
 
 <a href="https://github.com/Daniel-Elston/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='77' />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='76' />
 </a>
 <a href="https://wakatime.com/@Daniel_Elston">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=github_dark", height='77' />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=github_dark", height='76' />
 </a>
 <a href="https://github.com/Daniel-Elston/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='77' />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='76' />
 </a>
-
-
 
 ---
 </details>
