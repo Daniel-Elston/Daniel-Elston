@@ -1,3 +1,4 @@
+![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner.png)
 
 ## Hello! My name is Daniel Elston and I am an aspiring Data Scientist 👋
 
