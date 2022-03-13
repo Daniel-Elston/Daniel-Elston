@@ -1,3 +1,4 @@
+
 ## Hello! My name is Daniel Elston and I am an aspiring Data Scientist 👋
 
 ---
@@ -70,6 +71,11 @@
 <a href="https://wakatime.com/@Daniel_Elston">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=github_dark", height='120' />
 </a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ---
 </details>
