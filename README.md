@@ -39,7 +39,7 @@
 ## Languages and Tools:<br/>
 <br/>
 
-<img align="left" alt="Python" width="260px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:1px;"/>
+<img align="left" alt="Python" width="200px" src="https://www.python.org/static/img/python-logo@2x.png" style="padding-right:1px;"/>
 
 <img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:1px;"/>
 
@@ -56,6 +56,8 @@
 <img align="left" alt="Torch" width="40px" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" style="padding-right:10px;" /><br/>
 <br/>
 <br/>
+
+
 
 <img align="left" alt="Pandas" width="110px" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="padding-right:1px;"/>
 
