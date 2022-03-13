@@ -1,6 +1,7 @@
 ## Hello! My name is Daniel Elston and I am an aspiring Data Scientist 👋
 
 ---
+[![wakatime](https://wakatime.com/badge/user/65cc1c1c-b124-4a80-975a-e59a238d2345.svg)](https://wakatime.com/@65cc1c1c-b124-4a80-975a-e59a238d2345)
 
 👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
 <br/>
