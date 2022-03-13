@@ -1,6 +1,7 @@
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner.png)
 
-## Hello! My name is Daniel Elston and I am an aspiring Data Scientist 👋
+<div style="text-align: center"> ## Hello! 👋 My name is Daniel Elston and I am an aspiring Data Scientist  </div>
+
 
 ---
 
