@@ -1,6 +1,8 @@
-![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner2.png)
-
 <h2 align="center"> Hello! 👋  My name is Daniel Elston & I am an aspiring Data Scientist </h2><br/>
+
+![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner3.png)
+
+<h2 align="center"> Current MSc Data Science & AI Student | BSc Physics (Hons) Graduate </h2><br/>
 
 
 ![](https://komarev.com/ghpvc/?username=Daniel-ELston) 
