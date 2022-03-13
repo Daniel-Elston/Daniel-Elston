@@ -39,7 +39,7 @@
 ## Languages and Tools:<br/>
 <br/>
 
-<img align="left" alt="Python" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:1px;"/>
+<img align="left" alt="Python" width="75px" src="https://iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" style="padding-right:1px;"/>
 
 <img align="left" alt="Jupyter" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:1px;"/>
 
