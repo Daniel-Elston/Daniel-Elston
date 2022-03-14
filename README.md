@@ -4,11 +4,9 @@
 
 <h2 align="center"> Current MSc Data Science & AI Student | BSc Physics (Hons) Graduate </h2><br/>
 
-
 ![](https://komarev.com/ghpvc/?username=Daniel-ELston) 
 [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
 <h3 align="right">:warning: Profile Currently Under Construction :hourglass_flowing_sand:	 </h3><br/>
-
 
 👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
 <br/>
