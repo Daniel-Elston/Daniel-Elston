@@ -35,6 +35,18 @@
 
 <br/>
 <br/>
+  
+## Future Goals & Aspiration
+I am highly interested in becoming a Data Scientist providing strategic business solutions. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the neccessary skills, but these roles provide the knowledge to make me a well rounded data specialist. 
+  
+I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research based, or scientific role such as pharmaseuticals or medicine.
+
+<br/>
+
+---
+
+<br/>
+<br/>
 
 ## Languages and Tools:<br/>
 <br/>
