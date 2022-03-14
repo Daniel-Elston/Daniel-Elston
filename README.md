@@ -34,10 +34,10 @@
 <br/>
 <br/>
   
-## Future Goals & Aspiration
-I am highly interested in becoming a Data Scientist providing strategic business solutions. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the neccessary skills, but these roles provide the knowledge to make me a well rounded data specialist. 
+### Future Goals & Aspiration
+<sub>I am highly interested in becoming a Data Scientist providing strategic business solutions. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the neccessary skills, but these roles provide the knowledge to make me a well rounded data specialist. 
   
-I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research based, or scientific role such as pharmaseuticals or medicine.
+I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research based, or scientific role such as pharmaseuticals or medicine.<sub/>
 
 <br/>
 
@@ -131,7 +131,7 @@ I am interested in the natural sciences. So beyond the business sector, I would 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='110' />
 </a><br/>
   <a href="https://github.com/Daniel-Elston/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='243' />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='242' />
 </a>
 
 ---
