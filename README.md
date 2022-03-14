@@ -125,12 +125,11 @@ I am interested in the natural sciences. So beyond the business sector, I would 
   
   
 <a href="https://wakatime.com/@Daniel_Elston">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=github_dark", height='119' />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=github_dark", height='109' />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='119' />
-</a><br />
-<br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='108' />
+</a><br/>
   <a href="https://github.com/Daniel-Elston/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='238' />
 </a>
