@@ -4,7 +4,7 @@
 
 <h2 align="center"> MSc Data Science & AI Student | BSc Physics (Hons) Graduate </h2><br/>
 
-![](https://komarev.com/ghpvc/?username=Daniel-ELston) 
+![](https://komarev.com/ghpvc/?username=Daniel-ELston)
 [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
 <h3 align="right">:warning: Profile Currently Under Construction :hourglass_flowing_sand:	 </h3><br/>
 
@@ -13,7 +13,6 @@ I am currently studying an MSc in Data Science and AI at Queen Mary's Univeristy
 
 ---
 
-<br/>
 <br/>
 
 ### My Interests
@@ -26,7 +25,6 @@ I am currently studying an MSc in Data Science and AI at Queen Mary's Univeristy
 
 ---
 
-<br/>
 <br/>
 
 ### Relevant Modules/Experience
@@ -41,7 +39,6 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 ---
 
 <br/>
-<br/>
 
 ### Future Goals & Aspiration
 
@@ -51,7 +48,6 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 
 ---
 
-<br/>
 <br/>
     
 ### Languages and Tools:
@@ -92,11 +88,10 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 
 <img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:1px;" /><
+<img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:1px;" /><br/>
 
 ---
 
-<br/>
 <br/>
 
 ### GitHub Profile Statistics:
