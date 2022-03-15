@@ -122,7 +122,7 @@ I have completed modules such as Machine Learning, Data Mining, Statistics for D
 
 ---
 
-<sub>💞️ I am looking to collaborate on any form of Data Science, Artificial Intelligence or Physics project (research or otherwise) in order to learn and develope my current skillset. I have worked with CERN for my [final year project] as lead of a team of four, which was awarded a commendation, hopefully proving the value I can add to YOUR project/team 💞️</sub>
+<sub>I am looking to collaborate on any form of Data Science, Artificial Intelligence or Physics project (research or otherwise) in order to learn and develope my current skillset. I have worked with CERN for my [final year project] as lead of a team of four, which was awarded a commendation, hopefully proving the value I can add to YOUR project/team 💞️</sub>
 
 ---
 
