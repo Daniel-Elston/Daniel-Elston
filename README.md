@@ -10,9 +10,11 @@
 ![Maintainer](https://img.shields.io/badge/DoB-05/10/96-blue)
 ![Maintainer](https://img.shields.io/badge/os-windows-blue)
 ![Maintainer](https://img.shields.io/badge/Python-3.6.9-blue)
+![Maintainer](https://img.shields.io/badge/Python-3.6.9-blue)
+
 
 ### Achievments :trophy:
-I am currently studying an MSc in Data Science and AI at Queen Mary's Univeristy of London averaging a grade of 73%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. I am highly interested in the use of data science to inform strategic decision making in a business setting to create impact. Currently, I am lead architect of a team of four, developing a [movie recommendation search engine].
+I am studying an MSc in Data Science and AI at Queen Mary's Univeristy of London averaging a grade of 73%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. I am highly interested in the use of data science to inform strategic decision making in a business setting to create impact. Currently, I am lead architect of a team of four, developing a [movie recommendation search engine].
 
 ---
 
