@@ -35,7 +35,9 @@ I am studying an MSc in Data Science and AI at Queen Mary's Univeristy of London
 ---
 
 <sub>
-I have experience providing business solutions for CERN and other small independant vendors working on Amazona and Depop platforms. I assumed the role of project lead for my work with CERN over a team of four. More recently, I am lead architect of a team of four tasked with developing a [movie recommendation search engine] using Python.<br/>  
+  I have experience providing business solutions for CERN and other small independant vendors working on Amazona and Depop platforms. I assumed the role of
+  project lead for my work with CERN over a team of four. More recently, I am lead architect of a team of four tasked with developing a [movie recommendation
+  search engine] using Python.<br/>  
 <br/>
 I am currently studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI.
 I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics and quantum physics.
