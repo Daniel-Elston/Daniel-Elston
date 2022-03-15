@@ -5,30 +5,14 @@
 <h2 align="center"> MSc Data Science & AI Student | BSc Physics (Hons) Graduate </h2><br/>
 
 ![](https://komarev.com/ghpvc/?username=Daniel-ELston)
+![Maintainer](https://img.shields.io/badge/DS-AI-blue)
 [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
 ![Maintainer](https://img.shields.io/badge/DoB-05/10/96-blue)
 ![Maintainer](https://img.shields.io/badge/os-windows-blue)
 ![Maintainer](https://img.shields.io/badge/Python-3.6.9-blue)
-![Maintainer](https://img.shields.io/badge/DS-AI-blue)
-![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
-![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
-
 
 ### Achievments :trophy:
 I am currently studying an MSc in Data Science and AI at Queen Mary's Univeristy of London averaging a grade of 73%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. I am highly interested in the use of data science to inform strategic decision making in a business setting to create impact. I thoroughly enjoyed my Physics degree from start to finish, and I'm currently enjoying my MSc just as much.
-
----
-
-<br/>
-
-### Relevant Modules/Experience
-
----
-
-<sub>
-I am currently studying the following modules: Neural Networks, Risk and Decision Making for DS and AI, Information Retrieval, Ethics and Law for DS and AI.
-I have completed the following modules: Machine Learning, Data Mining, Statistics for DS and AI, Programming for DS and AI.
-  </sub>
 
 ---
 
@@ -39,6 +23,22 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 ---
 
 <sub>I am an aspiring Data Scientist providing strategic business solutions. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the neccessary skills, but these roles provide the knowledge to make me a well rounded data specialist. I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research based, or scientific role such as pharmaseuticals or medicine.</sub>
+
+---
+
+<br/>
+
+### Relevant Modules/Experience
+
+---
+
+<sub>
+I have experience providing business solutions for CERN and other small independant vendors working on Amazona and Depop platforms. I assumed the role of project lead for my work with CERN over a team of four. More recently, I am lead architect of a team of four tasked with developing a [movie recommendation search engine] using Python.<br/>  
+<br/>
+I am currently studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI.
+I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics and quantum physics.
+
+  </sub>
 
 ---
 
@@ -122,7 +122,7 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 
 ---
 
-💞️ I am looking to collaborate on any form of Data Science, Artificial Intelligence or Physics project (research or otherwise). I have worked with CERN for my [final year project] as lead of a team od four, which was awarded a commendation 💞️
+<sub>💞️ I am looking to collaborate on any form of Data Science, Artificial Intelligence or Physics project (research or otherwise) in order to learn and develope my current skillset. I have worked with CERN for my [final year project] as lead of a team of four, which was awarded a commendation, hopefully proving the value I can add to YOUR project/team 💞️</sub>
 
 ---
 
@@ -130,4 +130,6 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 
 [industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 [final year project]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
+[CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
+[movie recommendation search engine]: https://github.com/Daniel-Elston/Movie-Recommendation-Search-Engine
 
