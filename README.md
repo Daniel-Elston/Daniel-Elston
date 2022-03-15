@@ -2,32 +2,31 @@
 
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner3.png)
 
-<h2 align="center"> Current MSc Data Science & AI Student | BSc Physics (Hons) Graduate </h2><br/>
+<h2 align="center"> MSc Data Science & AI Student | BSc Physics (Hons) Graduate </h2><br/>
 
 ![](https://komarev.com/ghpvc/?username=Daniel-ELston) 
 [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
 <h3 align="right">:warning: Profile Currently Under Construction :hourglass_flowing_sand:	 </h3><br/>
 
-👋 I am currently studying MSc Data Science and AI at Queen Mary University of London with an average grade of 73%.<br/>
+### Achievments :trophy:
+I am currently studying an MSc in Data Science and AI at Queen Mary's Univeristy of London averaging a grade of 73%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. I am highly interested in the use of data science to inform strategic decision making in a business setting to create impact. I thoroughly enjoyed my Physics degree from start to finish, and I'm currently enjoying my MSc just as much.
+<br/>
+<br/>
+    
+  
+### My Interests
+<sub>
+  I enjoy getting outdoors, swimming, playing football and mountain biking. Beyond this I enjoy solving complex problems creatively and strategy, which led me to enjoying the game of chess from a young age. Since learning to code, I enjoy conducting data science and machine learning projects. I am greatly interested in all three natural sciences, but follow hot topics in Physics keenly. Finally, I am thoroughly enjoying my journey becoming a Data Scientist!
+  </sub>
+<br/>
 <br/>
 
-🎓 I am a University of Bristol graduate, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN].<br/>
-<br/>
 
-👀 I am interested in using Data Science (DS) to inform strategic decision making and make impact in a business setting. I am particularly interested in strategy and complex problem solving.<br/>
-<br/>
-
-🌱 I am currently studying the following modules: Neural Networks, Risk and Decision Making for DS and AI, Information Retrieval, Ethics and Law for DS and AI.<br/>
-<br/>
-
-✅	<sub>I have completed the following modules: Machine Learning, Data Mining, Statistics for DS and AI, Programming for DS and AI.<sub/><br/>
-<br/>
-
-💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see report) which was awarded a        commendation.<br/>
-<br/>
-
-📫 How to reach me, university email: ec21024@qmul.ac.uk, business email: delstonds@outlook.com
-<br/>
+### Relevant Modules/Experience
+<sub>
+I am currently studying the following modules: Neural Networks, Risk and Decision Making for DS and AI, Information Retrieval, Ethics and Law for DS and AI.
+I have completed the following modules: Machine Learning, Data Mining, Statistics for DS and AI, Programming for DS and AI.
+  </sub>
 
 ---
 
@@ -35,12 +34,8 @@
 <br/>
   
 ### Future Goals & Aspiration
-<sub>I am highly interested in becoming a Data Scientist providing strategic business solutions. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the neccessary skills, but these roles provide the knowledge to make me a well rounded data specialist. <br/>
+<sub>I am an aspiring Data Scientist providing strategic business solutions. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the neccessary skills, but these roles provide the knowledge to make me a well rounded data specialist. <br/>
   I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research based, or scientific role such as pharmaseuticals or medicine.<sub/>
-  
-### Future Goals & Aspiration
-I am highly interested in becoming a Data Scientist providing strategic business solutions. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the neccessary skills, but these roles provide the knowledge to make me a well rounded data specialist. <br/>
-  I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research based, or scientific role such as pharmaseuticals or medicine.
 
 <br/>
 
@@ -93,6 +88,9 @@ I am highly interested in becoming a Data Scientist providing strategic business
 ---
 
 <br/>
+<br/>
+  
+  💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see report) which was awarded a commendation.<br/>
 <br/>
 
 ## GitHub Profile Statistics:<br/>
