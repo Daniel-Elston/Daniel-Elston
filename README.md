@@ -115,8 +115,6 @@ I am studying an MSc in Data Science and AI at the Queen Mary's University of Lo
 
 ---
 
-<br/>
-
 <h4 align="center"> :warning: I have 7 more Projects to upload! But the code needs to be updated, cleaned and reorganised first :hourglass_flowing_sand: </h4>
 
 </details>
