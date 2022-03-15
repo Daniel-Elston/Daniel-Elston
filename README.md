@@ -10,45 +10,51 @@
 
 ### Achievments :trophy:
 I am currently studying an MSc in Data Science and AI at Queen Mary's Univeristy of London averaging a grade of 73%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. I am highly interested in the use of data science to inform strategic decision making in a business setting to create impact. I thoroughly enjoyed my Physics degree from start to finish, and I'm currently enjoying my MSc just as much.
-<br/>
-<br/>
 
 ---
 
+<br/>
+<br/>
 
 ### My Interests
+
+---
+
 <sub>
   I enjoy getting outdoors, swimming, playing football and mountain biking. Beyond this I enjoy solving complex problems creatively and strategy, which led me to enjoying the game of chess from a young age. Since learning to code, I enjoy conducting data science and machine learning projects. I am greatly interested in all three natural sciences, but follow hot topics in Physics keenly. Finally, I am thoroughly enjoying my journey becoming a Data Scientist!
   </sub>
-<br/>
-<br/>
 
 ---
 
+<br/>
+<br/>
 
 ### Relevant Modules/Experience
+
+---
+
 <sub>
 I am currently studying the following modules: Neural Networks, Risk and Decision Making for DS and AI, Information Retrieval, Ethics and Law for DS and AI.
 I have completed the following modules: Machine Learning, Data Mining, Statistics for DS and AI, Programming for DS and AI.
   </sub>
-<br/>
-<br/>
 
 ---
 
+<br/>
+<br/>
 
 ### Future Goals & Aspiration
-<sub>I am an aspiring Data Scientist providing strategic business solutions. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the neccessary skills, but these roles provide the knowledge to make me a well rounded data specialist. <br/>
-  I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research based, or scientific role such as pharmaseuticals or medicine.</sub>
-<br/>
-<br/>
 
 ---
-    
-    
-## Languages and Tools:
+
+<sub>I am an aspiring Data Scientist providing strategic business solutions. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the neccessary skills, but these roles provide the knowledge to make me a well rounded data specialist. I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research based, or scientific role such as pharmaseuticals or medicine.</sub>
+
+---
+
 <br/>
 <br/>
+    
+### Languages and Tools:
 
 ---
 
@@ -86,16 +92,16 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 
 <img align="left" alt="scipy" width="35px" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" style="padding-right:1px;"/>
 
-<img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:1px;" /><br/>
+<img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:1px;" /><
+
+---
+
 <br/>
-<br/>
-    
-    
-  💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see report) which was awarded a commendation.<br/>
 <br/>
 
-## GitHub Profile Statistics:<br/>
-<br/>
+### GitHub Profile Statistics:
+
+---
 
 <a href="https://github.com/Daniel-Elston/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='119' />
@@ -104,6 +110,15 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='119' />
 </a>
 
+---
+
+<br/>
+<br/>
+
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -137,6 +152,11 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 </a>
 
 ---
+
+  💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see report) which was awarded a commendation
+
+---
+
 </details>
 
 [industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
