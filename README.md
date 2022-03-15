@@ -34,26 +34,11 @@ I am studying an MSc in Data Science and AI at Queen Mary's Univeristy of London
 
 ---
 
-<sub>
-  I have experience providing business solutions for CERN and other small independant vendors working on Amazona and Depop platforms. I assumed the role of
-  project lead for my work with CERN over a team of four. More recently, I am lead architect of a team of four tasked with developing a movie recommendation
-  search engine using Python.<br/>  
+<sub>I have experience providing business solutions for CERN and other small independant vendors working on Amazona and Depop platforms. I assumed the role of project lead for my work with CERN over a team of four. More recently, I am lead architect of a team of four tasked with developing a [movie recommendation search engine][movie recommendation search engine] using Python.<br/>  
 <br/>
-I am currently studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI.
-I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics and quantum physics.
+I am studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI and my Msc project.
+I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics, quantum physics and BSc Industrial Group Project.
 
-  </sub>
-
----
-
-<br/>
-
-### My Interests
-
----
-
-<sub>
-  I enjoy getting outdoors, swimming, playing football and mountain biking. Beyond this I enjoy solving complex problems creatively and strategy, which led me to enjoying the game of chess from a young age. Since learning to code, I enjoy conducting data science and machine learning projects. I am greatly interested in all three natural sciences, but follow hot topics in Physics keenly. Finally, I am thoroughly enjoying my journey becoming a Data Scientist!
   </sub>
 
 ---
@@ -121,7 +106,19 @@ I have completed modules such as Machine Learning, Data Mining, Statistics for D
 ---
 
 <br/>
-    
+
+### My Interests
+
+---
+
+<sub>
+  I enjoy getting outdoors, swimming, playing football and mountain biking. Beyond this I enjoy solving complex problems creatively and strategy, which led me to enjoying the game of chess from a young age. Since learning to code, I enjoy conducting data science and machine learning projects. I am greatly interested in all three natural sciences, but follow hot topics in Physics keenly. Finally, I am thoroughly enjoying my journey becoming a Data Scientist!
+  </sub>
+
+---
+
+<br/>
+
 ### Collaboration:
 
 ---
@@ -135,5 +132,6 @@ I have completed modules such as Machine Learning, Data Mining, Statistics for D
 [industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 [final year project]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 [CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
+[movie recommendation search engine]: https://github.com/Daniel-Elston/Movie-Recommendation-Search-Engine
 [movie recommendation search engine]: https://github.com/Daniel-Elston/Movie-Recommendation-Search-Engine
 
