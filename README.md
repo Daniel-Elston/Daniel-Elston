@@ -10,7 +10,7 @@
 ![Maintainer](https://img.shields.io/badge/DoB-05/10/96-blue)
 ![Maintainer](https://img.shields.io/badge/os-windows-blue)
 ![Maintainer](https://img.shields.io/badge/Python-3.6.9-blue)
-![Maintainer](https://img.shields.io/badge/Python-3.6.9-blue)
+![Maintainer](https://img.shields.io/badge/DS-AI-blue)
 
 
 ### Achievments :trophy:
