@@ -21,18 +21,6 @@ I am currently studying an MSc in Data Science and AI at Queen Mary's Univeristy
 
 <br/>
 
-### My Interests
-
----
-
-<sub>
-  I enjoy getting outdoors, swimming, playing football and mountain biking. Beyond this I enjoy solving complex problems creatively and strategy, which led me to enjoying the game of chess from a young age. Since learning to code, I enjoy conducting data science and machine learning projects. I am greatly interested in all three natural sciences, but follow hot topics in Physics keenly. Finally, I am thoroughly enjoying my journey becoming a Data Scientist!
-  </sub>
-
----
-
-<br/>
-
 ### Relevant Modules/Experience
 
 ---
@@ -51,6 +39,18 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 ---
 
 <sub>I am an aspiring Data Scientist providing strategic business solutions. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the neccessary skills, but these roles provide the knowledge to make me a well rounded data specialist. I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research based, or scientific role such as pharmaseuticals or medicine.</sub>
+
+---
+
+<br/>
+
+### My Interests
+
+---
+
+<sub>
+  I enjoy getting outdoors, swimming, playing football and mountain biking. Beyond this I enjoy solving complex problems creatively and strategy, which led me to enjoying the game of chess from a young age. Since learning to code, I enjoy conducting data science and machine learning projects. I am greatly interested in all three natural sciences, but follow hot topics in Physics keenly. Finally, I am thoroughly enjoying my journey becoming a Data Scientist!
+  </sub>
 
 ---
 
@@ -122,12 +122,12 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 
 ---
 
-  💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see [report]) which was awarded a commendation
+💞️ I am looking to collaborate on any form of Data Science, Artificial Intelligence or Physics project (research or otherwise). I have worked with CERN for my [final year project] as lead of a team od four, which was awarded a commendation 💞️
 
 ---
 
 </details>
 
 [industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
-[report]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
+[final year project]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 
