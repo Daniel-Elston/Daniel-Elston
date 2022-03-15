@@ -6,7 +6,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Daniel-ELston)
 [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
-<h3 align="right">:warning: Profile Currently Under Construction :hourglass_flowing_sand:	 </h3><br/>
+![Maintainer](https://img.shields.io/badge/DoB-05/10/96-blue)
+![Maintainer](https://img.shields.io/badge/os-windows-blue)
+![Maintainer](https://img.shields.io/badge/Python-3.6.9-blue)
+![Maintainer](https://img.shields.io/badge/DS-AI-blue)
+![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+
 
 ### Achievments :trophy:
 I am currently studying an MSc in Data Science and AI at Queen Mary's Univeristy of London averaging a grade of 73%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. I am highly interested in the use of data science to inform strategic decision making in a business setting to create impact. I thoroughly enjoyed my Physics degree from start to finish, and I'm currently enjoying my MSc just as much.
@@ -99,27 +105,6 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 ---
 
 <a href="https://github.com/Daniel-Elston/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='119' />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='119' />
-</a>
-
----
-
-<br/>
-<br/>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<a href="https://github.com/Daniel-Elston/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='76' />
 </a>
 <a href="https://wakatime.com/@Daniel_Elston">
@@ -128,31 +113,21 @@ I have completed the following modules: Machine Learning, Data Mining, Statistic
 <a href="https://github.com/Daniel-Elston/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='76' />
 </a>
-  
-  
-<br />
-<br />
-<br />
-<br />
-  
-  
-<a href="https://wakatime.com/@Daniel_Elston">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layuout=compact&theme=github_dark", height='111' />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='110' />
-</a><br/>
-  <a href="https://github.com/Daniel-Elston/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='242' />
-</a>
 
 ---
 
-  💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see report) which was awarded a commendation
+<br/>
+    
+### Collaboration:
+
+---
+
+  💞️ I am looking to collaborate on any form of Physics or Data Science project. I have worked with CERN for my final year project (see [report]) which was awarded a commendation
 
 ---
 
 </details>
 
 [industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
+[report]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 
