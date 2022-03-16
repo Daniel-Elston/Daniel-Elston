@@ -113,7 +113,7 @@ I have experience providing business solutions for CERN and other small independ
 
 ---
 
-<h4 align="center"> :warning: I have 7 more Projects to upload! But the code needs to be updated. Repo's under construction :hourglass_flowing_sand: </h4>
+<h4 align="center"> :warning: I have 7 more Projects to upload! But the code needs to be updated. My epositorie readmes under construction :hourglass_flowing_sand: </h4>
 
 </details>
 
