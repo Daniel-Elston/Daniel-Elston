@@ -24,8 +24,8 @@ I am studying an MSc in Data Science and AI at the Queen Mary's University of Lo
 
 ---
 
-<sub>I am open to Data Science roles providing strategic business solutions for companies. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the necessary skills, but these roles provide the knowledge to make me a well-rounded data specialist. 
-  I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research-based, or scientific role such as pharmaceuticals or medicine.</sub>
+I am open to Data Science roles providing strategic business solutions for companies. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the necessary skills, but these roles provide the knowledge to make me a well-rounded data specialist. 
+  I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research-based, or scientific role such as pharmaceuticals or medicine.
 
 ---
 
@@ -35,9 +35,7 @@ I am studying an MSc in Data Science and AI at the Queen Mary's University of Lo
 
 ---
 
-<sub>I have experience providing business solutions for CERN and other small independent vendors working on Amazona and Depop platforms. I assumed the role of project lead for my work with CERN over a team of four. More recently, I am the lead architect of a team of four tasked with developing a [movie recommendation search engine][movie recommendation search engine] using Python.<br/><br/>I am studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI, and my MSc project. I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics, quantum physics, and BSc Industrial Group Project.
-
-  </sub>
+I have experience providing business solutions for CERN and other small independent vendors working on Amazona and Depop platforms. I assumed the role of project lead for my work with CERN over a team of four. More recently, I am the lead architect of a team of four tasked with developing a [movie recommendation search engine][movie recommendation search engine] using Python.<br/><br/>I am studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI, and my MSc project. I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics, quantum physics, and BSc Industrial Group Project.
 
 ---
 
