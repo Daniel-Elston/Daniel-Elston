@@ -14,7 +14,7 @@
 
 
 ### Achievments :trophy:
-I am studying an MSc in Data Science and AI at the Queen Mary's University of London averaging a grade of 73%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. I am highly interested in the use of data science to inform strategic decision-making in a business setting to create impact. Currently, I am the lead architect in a team of four, developing a [movie recommendation search engine].
+I am studying an MSc in Data Science and AI at the Queen Mary's University of London averaging a grade of 73%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. I am highly interested in the use of data science to inform strategic decision-making in a business setting to create impact. Currently, I am the lead architect in a team of four, developing a [movie recommendation search engine]. Further projects include the construction of a neural network designed to process and classify images.
 
 ---
 
@@ -108,7 +108,7 @@ I have experience providing business solutions for CERN and other small independ
 ---
 
 <sub>
-  I enjoy getting outdoors, swimming, playing football, and mountain biking. Beyond this I enjoy solving complex problems creatively and strategy, which led me to enjoy the game of chess from a young age. I am greatly interested in all three natural sciences, but mainly follow hot topics in Physics keenly. Finally, I am thoroughly enjoying my journey becoming a Data Scientist!<br/><br/>Since learning to code, I enjoy conducting data science and machine learning projects in my spare time. I am looking to collaborate on any form of Data Science, Artificial Intelligence, or Physics project (research or otherwise) in order to learn and develop my current skill set. Please email me for collaboration.<br/><br/>I have worked with CERN for my [final year project] as the leader of a team of four, which was awarded a commendation. I am currently the lead architect of a team of four developing a search engine. Hopefully, the above points prove the value I can add to your project/team.💞️
+  I enjoy getting outdoors, swimming, playing football, and mountain biking. Beyond this I enjoy solving complex problems creatively and strategy, which led me to enjoy the game of chess from a young age. I am greatly interested in all three natural sciences, but mainly follow hot topics in Physics keenly. Finally, I am thoroughly enjoying my journey becoming a Data Scientist!<br/><br/>Since learning to code, I enjoy conducting data science and machine learning projects in my spare time. I am looking to collaborate on any form of Data Science, Artificial Intelligence, or Physics project (research or otherwise) in order to learn and develop my current skill set. Please email me for collaboration.<br/><br/>I have worked with CERN for my final year project as the leader in a team of four, which was awarded a commendation. I am currently the lead architect in a team of four developing a search engine. Further projects include the construction of a neural network designed to process and classify images. Hopefully, the above points prove the value I can add to your project/team.💞️
   </sub>
 
 ---
