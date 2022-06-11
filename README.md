@@ -14,7 +14,10 @@
 
 
 ### Achievments :trophy:
-I am studying an MSc in Data Science and AI at the Queen Mary's University of London averaging a grade of 76%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. I am highly interested in the use of data science to inform strategic decision-making in a business setting to create impact. Currently, I am the lead architect in a team of four, developing a [movie recommendation search engine]. Also, I have begun the construction of a neural network designed to process and classify images.
+
+I am currently completing my MSc Dissertation in industry for a prestigious Data Science consultancy firm in London. I am studying an MSc in Data Science and AI at the Queen Mary's University of London averaging a grade of 76%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. 
+
+I am further completing a freelance project aimed to extract useable, clean data from textual big data. Please see further projects such as [movie recommendation application] or my [credit card default prediction algorithm] in my repositories. I am highly interested in the use of data science to inform strategic decision-making in a business setting to create impact. 
 
 ---
 
@@ -24,8 +27,9 @@ I am studying an MSc in Data Science and AI at the Queen Mary's University of Lo
 
 ---
 
-I am open to Data Science roles providing strategic business solutions for companies. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the necessary skills, but these roles provide the knowledge to make me a well-rounded data specialist. 
-  I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research-based, or scientific role such as pharmaceuticals or medicine.
+I am open to Data Science consultancy roles providing strategic business solutions for companies. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the necessary skills, but these roles provide the knowledge to make me a well-rounded data specialist. 
+
+I am interested in the natural sciences. So beyond the business sector, I would happily apply my Data Science skills in a research-based, or scientific role such as pharmaceuticals, medicine or ideally, a Physics based role.
 
 ---
 
@@ -35,7 +39,7 @@ I am open to Data Science roles providing strategic business solutions for compa
 
 ---
 
-I have experience providing business solutions for CERN and other small independent vendors working on Amazona and Depop platforms. I assumed the role of project lead for my work with CERN over a team of four. More recently, I am the lead architect of a team of four tasked with developing a [movie recommendation search engine][movie recommendation search engine] using Python.<br/><br/>I am studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI, and my MSc project. I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics, quantum physics, and BSc Industrial Group Project.
+I have experience providing business solutions for CERN and other small independent vendors working on Amazon and Depop platforms. I assumed the role of project lead for my work with CERN over a team of four. More recently, I am the lead architect of a team of four tasked with developing a [movie recommendation search engine][movie recommendation search engine] using Python.<br/><br/>I am studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI, and my MSc project. I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics, quantum physics, and BSc Industrial Group Project.
 
 ---
 
@@ -120,5 +124,6 @@ I have experience providing business solutions for CERN and other small independ
 [industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 [final year project]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 [CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
-[movie recommendation search engine]: https://github.com/Daniel-Elston/Movie-Recommendation-Search-Engine
-[movie recommendation search engine]: https://github.com/Daniel-Elston/Movie-Recommendation-Search-Engine
+[movie recommendation application]: https://github.com/Daniel-Elston/Movie-Recommendation-Application
+[movie recommendation application]: https://github.com/Daniel-Elston/Movie-Recommendation-Application
+[credit card default prediction algorithm]: https://github.com/Daniel-Elston/Credit-Card-Default-Prediction-Algorithm
