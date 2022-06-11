@@ -117,8 +117,6 @@ I have experience providing business solutions for CERN and other small independ
 
 ---
 
-<h4 align="center"> :warning: I have 7 more Projects to upload! But the code must first be updated. Thank you for your patience!:hourglass_flowing_sand: </h4>
-
 </details>
 
 [industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
