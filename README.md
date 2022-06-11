@@ -29,7 +29,7 @@ I am further completing a freelance project aimed to extract useable, clean data
 
 I am open to Data Science consultancy roles providing strategic business solutions for companies. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the necessary skills, but these roles provide the knowledge to make me a well-rounded data specialist. 
 
-I am interested in the natural sciences, so beyond the business sector, I would happily apply my Data Science skills in a research-based, or scientific role such as pharmaceuticals, medicine or ideally, a Physics/Chemsitry based role.
+I am interested in the natural sciences, so beyond the business sector, I would happily apply my Data Science skills in a research-based, or scientific role such as pharmaceuticals, medicine or ideally, a Physics/Chemistry based role.
 
 ---
 
