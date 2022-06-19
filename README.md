@@ -15,7 +15,7 @@
 
 ### Achievments :trophy:
 
-I am currently completing my MSc Dissertation in industry for a prestigious Data Science consultancy firm in London. I am studying an MSc in Data Science and AI at the Queen Mary's University of London averaging a grade of 76%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. 
+I am currently completing my MSc Dissertation in industry for a prestigious Data Science consultancy firm in London. I am constructing a dynamic pricing ML algorithm end-to-end for a leading distributor of car parts. I am studying an MSc in Data Science and AI at the Queen Mary's University of London averaging a grade of 77%. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. 
 
 I am further completing a freelance project aimed to extract useable, clean data from textual big data. Please see further projects such as [movie recommendation application] or my [credit card default prediction algorithm] in my repositories. I am highly interested in the use of data science to inform strategic decision-making in a business setting to create impact. 
 
