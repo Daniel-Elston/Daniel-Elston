@@ -110,6 +110,7 @@ I am currently conducting my MSc dissertation in industry working for a prestigi
 
 </details>
 
+[LHC Particle Beam Detection for CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 [industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 [final year project]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 [CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
