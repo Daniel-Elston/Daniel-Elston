@@ -1,4 +1,4 @@
-<h2 align="center"> **Hello, I'm Daniel Elston** </h2>
+<h2 align="center"> Hello, I'm Daniel Elston </h2>
 
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner3.png)
 
