@@ -41,6 +41,7 @@ Over the past year, I have gathered industrial experience following my MSc in Da
 - **Project Leadership**: Headed up my own projects, further developing my project management and leadership skills.
 - **Collaborative Coding and Version Control**: Used version control systems, such as Git, in a collaborative environment, following best practices for code reviews and merges.
 - **Documentation and Presentation**: Formulated technical documents to outline plans and communicate complex data science concepts to diverse audiences.
+- **Data Formats**: Handled various raw data formats such as .csv, .xlsx, .sql and serialised data objects such as .json, .parquet, .feather and .pkl.
 
 ---
 
