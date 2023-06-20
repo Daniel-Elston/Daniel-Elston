@@ -93,7 +93,7 @@ My aspiration is to continue providing strategic business solutions by leveragin
 <br/>
     
 ### Languages and Tools:
-
+Python, PostgreSQL, LaTeX, Git, Pandas, NumPy,
 ---
 
 <img align="left" alt="Python" width="75px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-right:1px;"/>
