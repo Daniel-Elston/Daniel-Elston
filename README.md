@@ -45,7 +45,7 @@ My aspiration is to continue providing strategic business solutions by leveragin
       <li>Risk & Decision Making for AI</li>
       <li>Data Mining</li>
       <li>Information Retrieval</li>
-      <li>Ethics, Regulation & Law in Advanced Digital 
+      <li>Ethics, Regulation & Law in Advanced Digital <br/>
         Information Processing and Decision Making</li>
     </ul>
   </div>
