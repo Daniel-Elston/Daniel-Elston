@@ -93,6 +93,7 @@ My aspiration is to continue providing strategic business solutions by leveragin
 <br/>
     
 ### Languages and Tools:
+
 Python, PostgreSQL, LaTeX, Git, Pandas, NumPy,
 ---
 
