@@ -37,8 +37,8 @@ My aspiration is to continue providing strategic business solutions by leveragin
 <div style="display: flex;">
   <div style="flex: 5;">
     - Bullet Point 1
-    - Bullet Point 2
-    - Bullet Point 3
+       - Bullet Point 2
+       - Bullet Point 3
   </div>
   <div style="flex: 3;">
     - Bullet Point 4
