@@ -9,27 +9,28 @@
 [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
 ![Maintainer](https://img.shields.io/badge/DoB-05.10.96-blue)
 ![Maintainer](https://img.shields.io/badge/os-windows-blue)
-![Maintainer](https://img.shields.io/badge/Python-3.10.5-blue)
+![Maintainer](https://img.shields.io/badge/Python-3.11.3-blue)
 ![Maintainer](https://img.shields.io/badge/GPA-4.0-blue)
 
+### About me :briefcase:
 
-### Achievments :trophy:
+Over the past year, I have gathered valuable industrial experience following my MSc in Data Science and AI, applying my academic knowledge to real-world scenarios. My BSc in Physics has provided me with a strong quantitative background which complements my data science capabilities, allowing me to approach complex problems from a unique angle.
 
-I completed my MSc Dissertation in industry for a prestigious Data Science consultancy firm in London. I constructed a dynamic pricing ML algorithm end-to-end for a leading distributor of car parts. I graduated from Queen Mary University of London in 2022, studying Data Science and AI. I graduated from the University of Bristol in 2021, achieving a 2:1 in BSc Physics (Hons) and a commendation for an [industrial group project with CERN][industrial group project with CERN]. 
 
-I am further completing a freelance project aimed to extract useable, clean data from textual big data. Please see further projects such as [movie recommendation application] or my [credit card default prediction algorithm] in my repositories. I am highly interested in the use of data science to inform strategic decision-making in a business setting to create impact. 
+### Academic Projects :trophy:
+
+- MSc Data Science & AI (Hons) Dissertation: I developed a dynamic pricing ML algorithm for a leading distributor of car parts at a prestigious Data Science consultancy firm in London.
+- BSc Physics (Hons) Final Year Project: [LHC Particle Beam Detection for CERN][cern-project]. Collaborated with a team of four and received a commendation.
 
 ---
 
 <br/>
 
-### Future Goals & Aspiration
+Professional Aspirations
 
 ---
 
-I am open to Data Science consultancy roles providing strategic business solutions for companies. Further to this, I am open to Data Engineering and Machine Learning roles. Not only do I have the necessary skills, but these roles provide the knowledge to make me a well-rounded data specialist. 
-
-I am interested in the natural sciences, so beyond the business sector, I would happily apply my Data Science skills in a research-based, or scientific role such as pharmaceuticals, medicine or ideally, a Physics/Chemistry based role.
+My aspiration is to continue providing strategic business solutions by leveraging data science. However, I am also enthusiastic about the potential for using data science in a more scientific or research-oriented context.
 
 ---
 
@@ -102,18 +103,6 @@ I am currently conducting my MSc dissertation in industry working for a prestigi
 <a href="https://github.com/Daniel-Elston/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark", height='76' />
 </a>
-
----
-
-<br/>
-
-### My Interests & Collaboration:
-
----
-
-<sub>
-  I enjoy getting outdoors, swimming, playing football, and mountain biking. Beyond this I enjoy solving complex problems creatively and strategic games such as chess. I am greatly interested in all three natural sciences, but mainly (as per my BSc) Physics. Finally, I am thoroughly enjoying my journey becoming a Data Scientist!<br/><br/>Since learning to code, I enjoy conducting data science and machine learning projects in my spare time. I am looking to collaborate on any form of Data Science, Artificial Intelligence, or Physics project (research or otherwise) in order to learn and develop my current skill set. Please email me for collaboration.<br/><br/>I have worked with CERN for my final year project as the leader in a team of four, which was awarded a commendation.
-  </sub>
 
 ---
 
