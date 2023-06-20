@@ -54,7 +54,7 @@ I am currently conducting my MSc dissertation in industry working for a prestigi
 
 <img align="left" alt="Overleaf" width="50px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:1px;"/>
 
-<img align="left" alt="mySQL" width="75px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="75px" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/postgresql-icon.png" style="padding-right:10px;" />
 
 <img align="left" alt="NLTK" width="45px" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" style="padding-right:10px;" />
 
