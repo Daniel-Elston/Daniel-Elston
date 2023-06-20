@@ -5,13 +5,14 @@
 <h2 align="center"> Data Scientist | MSc Data Science & AI (Hons) | BSc Physics (Hons) </h2><br/>
 
 <div align="center">
-![Maintainer](https://img.shields.io/badge/DS-AI-blue)
-![](https://komarev.com/ghpvc/?username=Daniel-ELston)
-[![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
-![Maintainer](https://img.shields.io/badge/DoB-05.10.96-blue)
-![Maintainer](https://img.shields.io/badge/os-windows-blue)
-![Maintainer](https://img.shields.io/badge/Python-3.11.3-blue)
+  ![Maintainer](https://img.shields.io/badge/DS-AI-blue)
+  ![](https://komarev.com/ghpvc/?username=Daniel-ELston)
+  [![wakatime](https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg)](https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a)
+  ![Maintainer](https://img.shields.io/badge/DoB-05.10.96-blue)
+  ![Maintainer](https://img.shields.io/badge/os-windows-blue)
+  ![Maintainer](https://img.shields.io/badge/Python-3.11.3-blue)
 </div>
+
 
 ---
 
