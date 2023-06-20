@@ -89,8 +89,6 @@ My aspiration is to continue providing strategic business solutions by leveragin
 </div>
 
 ---
-
-<br/>
     
 ### Languages and Tools:
 
@@ -135,8 +133,6 @@ Python, Jupyter Notebooks, PostgreSQL, LaTeX, Git, Pandas, NumPy, Matplotlib, Se
 <img align="left" alt="librosa" width="90px" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" style="padding-right:1px;" /><br/>
 
 ---
-
-<br/>
 
 ### GitHub Profile Statistics:
 
