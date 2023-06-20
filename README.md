@@ -1,8 +1,8 @@
-<h2 align="center"> Hello! 👋  My name is Daniel Elston </h2>
+<h2 align="center"> Hello, I'm Daniel Elston </h2>
 
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner3.png)
 
-<h2 align="center"> MSc Data Science & AI Student | BSc Physics (Hons) Graduate </h2><br/>
+<h2 align="center"> Data Scientist | MSc Data Science & AI (Hons) | BSc Physics (Hons) </h2><br/>
 
 ![Maintainer](https://img.shields.io/badge/DS-AI-blue)
 ![](https://komarev.com/ghpvc/?username=Daniel-ELston)
@@ -11,6 +11,8 @@
 ![Maintainer](https://img.shields.io/badge/os-windows-blue)
 ![Maintainer](https://img.shields.io/badge/Python-3.11.3-blue)
 ![Maintainer](https://img.shields.io/badge/GPA-4.0-blue)
+
+---
 
 ### About me :briefcase:
 
@@ -27,7 +29,7 @@ Over the past year, I have gathered valuable industrial experience following my 
 
 <br/>
 
-Professional Aspirations
+### Professional Aspirations
 
 ---
 
