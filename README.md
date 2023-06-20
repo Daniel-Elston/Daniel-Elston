@@ -37,47 +37,31 @@ My aspiration is to continue providing strategic business solutions by leveragin
 <div style="display: flex;">
   <div style="flex: 1;">
     <ul>
-      <li>Bullet point 1</li>
-      <li>Bullet point 2</li>
-      <li>Bullet point 3</li>
+      <li>Principles of Machine Learning</li>
+      <li>Neural Networks & Deep Learning</li>
+      <li>Programming for AI & Data Science</li>
+      <li>Statistics for AI & Data Science</li>
+      <li>Risk & Decision Making for AI</li>
+      <li>Data Mining</li>
+      <li>Information Retrieval</li>
+      <li>Ethics, Regulation & Law in Advanced Digital Information Processing and Decision Making</li>
     </ul>
   </div>
   <div style="flex: 10;">
     <ul>
-      <li>Bullet point 4</li>
-      <li>Bullet point 5</li>
-      <li>Bullet point 6</li>
+      <li>Quantum Mechanics</li>
+      <li>Quantum Physics</li>
+      <li>Computational Physics</li>
+      <li>Statistical Mechanics</li>
+      <li>Mathematical Physics</li>
+      <li>Computational Physics</li>
+      <li>Probability & Statistics</li>
+      <li>Calculus I, II, III, IV</li>
+      <li>Solid State Physics</li>
+      <li>Nuclear & Particle Physics</li>
     </ul>
   </div>
 </div>
-
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <ul>
-      <li>Bullet point 1</li>
-      <li>Bullet point 2</li>
-      <li>Bullet point 3</li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <ul>
-      <li>Bullet point 4</li>
-      <li>Bullet point 5</li>
-      <li>Bullet point 6</li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <ul>
-      <li>Bullet point 7</li>
-      <li>Bullet point 8</li>
-      <li>Bullet point 9</li>
-    </ul>
-  </div>
-</div>
-
-
-
-
 
 
 I am currently conducting my MSc dissertation in industry working for a prestigious Data Science Consultancy firm in London. I have experience providing business solutions for CERN, a large maintenance company and other small independent vendors working on Amazon and Depop platforms. I assumed the role of project lead for my work with CERN in a team of four. I was project lead again in a team of four developing a movie recommendation app.<br/><br/>I am studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI, and my MSc project. I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics, quantum physics, and BSc Industrial Group Project.
