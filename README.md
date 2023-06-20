@@ -28,17 +28,11 @@ Over the past year, I have gathered industrial experience following my MSc in Da
 
 ### Professional Aspirations :chart_with_upwards_trend:
 
----
-
 My aspiration is to continue providing strategic business solutions by leveraging data science. However, I am also enthusiastic about the potential for using data science in a more scientific or research-oriented context.
 
 ---
 
-<br/>
-
 ### Relevant Modules/Experience
-
----
 
 I am currently conducting my MSc dissertation in industry working for a prestigious Data Science Consultancy firm in London. I have experience providing business solutions for CERN, a large maintenance company and other small independent vendors working on Amazon and Depop platforms. I assumed the role of project lead for my work with CERN in a team of four. I was project lead again in a team of four developing a movie recommendation app.<br/><br/>I am studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI, and my MSc project. I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics, quantum physics, and BSc Industrial Group Project.
 
