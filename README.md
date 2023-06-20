@@ -51,6 +51,31 @@ My aspiration is to continue providing strategic business solutions by leveragin
   </div>
 </div>
 
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <ul>
+      <li>Bullet point 1</li>
+      <li>Bullet point 2</li>
+      <li>Bullet point 3</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Bullet point 4</li>
+      <li>Bullet point 5</li>
+      <li>Bullet point 6</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Bullet point 7</li>
+      <li>Bullet point 8</li>
+      <li>Bullet point 9</li>
+    </ul>
+  </div>
+</div>
+
+
 
 
 
