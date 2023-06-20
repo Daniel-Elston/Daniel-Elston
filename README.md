@@ -40,7 +40,7 @@ My aspiration is to continue providing strategic business solutions by leveragin
 
 ### Relevant Modules & Experience :books:
 
-#### MSc Data Science & AI
+**MSc Data Science & AI:**
 <div style="display: flex;">
   <div style="flex: 1;">
     <ul>
@@ -56,7 +56,7 @@ My aspiration is to continue providing strategic business solutions by leveragin
     </ul>
   </div>
 
-#### Physics
+**Physics:**
   <div style="flex: 10;">
     <ul>
       <li>Quantum Mechanics</li>
