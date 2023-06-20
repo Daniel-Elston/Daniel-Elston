@@ -46,7 +46,7 @@ I am currently conducting my MSc dissertation in industry working for a prestigi
 
 <img align="left" alt="Python" width="75px" src="https://iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" style="padding-right:1px;"/>
 
-<img align="left" alt="Python" width="75px" src="[https://iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png)" style="padding-right:1px;"/>
+<img align="left" alt="Python" width="75px" src="https://iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" style="padding-right:1px;"/>
 
 https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png
 
