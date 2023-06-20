@@ -34,6 +34,8 @@ My aspiration is to continue providing strategic business solutions by leveragin
 
 ### Relevant Modules & Experience :books:
 
+
+
 I am currently conducting my MSc dissertation in industry working for a prestigious Data Science Consultancy firm in London. I have experience providing business solutions for CERN, a large maintenance company and other small independent vendors working on Amazon and Depop platforms. I assumed the role of project lead for my work with CERN in a team of four. I was project lead again in a team of four developing a movie recommendation app.<br/><br/>I am studying Neural Networks, Risk and Decision Making for Data Science and AI, Information Retrieval, Ethics and Law for Data Science and AI, and my MSc project. I have completed modules such as Machine Learning, Data Mining, Statistics for Data Science and AI, Programming for Data Science and AI, statistical mechanics, quantum physics, and BSc Industrial Group Project.
 
 ---
@@ -44,13 +46,11 @@ I am currently conducting my MSc dissertation in industry working for a prestigi
 
 ---
 
-<img align="left" alt="Python" width="75px" src="https://iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" style="padding-right:1px;"/>
-
 <img align="left" alt="Python" width="75px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-right:1px;"/>
 
 <img align="left" alt="Jupyter" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="padding-right:1px;"/>
 
-<img align="left" alt="colab" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" style="padding-right:1px;"/>
+<img align="left" alt="colab" width="75px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/git-icon.png" style="padding-right:1px;"/>
 
 <img align="left" alt="Overleaf" width="50px" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" style="padding-right:1px;"/>
 
