@@ -13,7 +13,7 @@
 
 ---
 
-### About me :briefcase:
+### About Me :briefcase:
 
 Over the past year, I have gathered industrial experience following my MSc in Data Science and AI, applying my academic knowledge to real-world scenarios. My BSc in Physics has provided me with a strong quantitative background which complements my data science capabilities, allowing me to approach complex problems from a unique angle.
 
@@ -26,9 +26,7 @@ Over the past year, I have gathered industrial experience following my MSc in Da
 
 ---
 
-<br/>
-
-### Professional Aspirations
+### Professional Aspirations :chart_with_upwards_trend:
 
 ---
 
