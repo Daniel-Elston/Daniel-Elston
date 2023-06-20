@@ -34,6 +34,7 @@ My aspiration is to continue providing strategic business solutions by leveragin
 
 ### Relevant Modules & Experience :books:
 
+#### MSc Data Science & AI
 <div style="display: flex;">
   <div style="flex: 1;">
     <ul>
@@ -47,6 +48,8 @@ My aspiration is to continue providing strategic business solutions by leveragin
       <li>Ethics, Regulation & Law in Advanced Digital Information Processing and Decision Making</li>
     </ul>
   </div>
+
+#### Physics
   <div style="flex: 10;">
     <ul>
       <li>Quantum Mechanics</li>
