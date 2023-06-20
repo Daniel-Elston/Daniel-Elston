@@ -32,6 +32,18 @@ Over the past year, I have gathered industrial experience following my MSc in Da
 
 ---
 
+### Industrial Experience :wrench:
+
+- **Data Pipeline Construction**: Built end-to-end pipelines for raw data processing and model training. 
+- **Configuration Files & OOP**: Utilised .yaml configuration files and built custom modules and classes to enhance project organisation and maintainability.
+- **Data Cleaning & Preparation**: Often handled real-world, messy, and unstructured data, refining my skills in data cleaning, preprocessing, and transformation.
+- **NLP**:  Improved my skills in NLP, building sophisticated text classification algorithms using embedding technologies like GloVe.
+- **Project Leadership**: Headed up my own projects, further developing my project management and leadership skills.
+- **Collaborative Coding and Version Control**: Used version control systems, such as Git, in a collaborative environment, following best practices for code reviews and merges.
+- **Documentation and Presentation**: Formulated technical documents to outline plans and communicate complex data science concepts to diverse audiences.
+
+---
+
 ### Professional Aspirations :chart_with_upwards_trend:
 
 My aspiration is to continue providing strategic business solutions by leveraging data science. However, I am also enthusiastic about the potential for using data science in a more scientific or research-oriented context.
@@ -72,13 +84,6 @@ My aspiration is to continue providing strategic business solutions by leveragin
     </ul>
   </div>
 </div>
-
----
-
-### Industrial Experience :wrench:
-
-- hello
-- hello again
 
 ---
 
