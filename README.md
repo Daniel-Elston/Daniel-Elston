@@ -22,7 +22,7 @@ Over the past year, I have gathered industrial experience following my MSc in Da
 ### Academic Projects :trophy:
 
 - MSc Data Science & AI (Hons) Dissertation: I developed a dynamic pricing ML algorithm for a leading distributor of car parts at a prestigious Data Science consultancy firm in London.
-- BSc Physics (Hons) Final Year Project: [LHC Particle Beam Detection for CERN][cern-project]. Collaborated with a team of four and received a commendation.
+- BSc Physics (Hons) Final Year Project: [LHC Particle Beam Detection for CERN][LHC Particle Beam Detection for CERN]. Collaborated with a team of four and received a commendation.
 
 ---
 
