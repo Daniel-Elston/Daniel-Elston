@@ -35,12 +35,12 @@ My aspiration is to continue providing strategic business solutions by leveragin
 ### Relevant Modules & Experience :books:
 
 <div style="display: flex;">
-  <div style="flex: 50%; padding-right: 30px;">
+  <div style="flex: 150%; padding-right: 30px;">
     • Bullet Point 1
     • Bullet Point 2
     • Bullet Point 3
   </div>
-  <div style="flex: 50%; padding-left: 30px;">
+  <div style="flex: 150%; padding-left: 30px;">
     • Bullet Point 4
     • Bullet Point 5
     • Bullet Point 6
