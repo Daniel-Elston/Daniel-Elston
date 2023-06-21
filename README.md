@@ -92,7 +92,7 @@ My aspiration is to continue providing strategic business solutions by leveragin
     
 ### Languages and Tools:
 
-Python, Jupyter Notebooks, PostgreSQL, LaTeX, Git, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, SciPy, PyTorch, TensorFlow, Keras, NLTK, SpaCy, XGBoost, LightBGM, Gensim, BeautifulSoup, SQLAlchemy, psycopg2
+Python, Jupyter Notebooks, PostgreSQL, LaTeX, Git, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, SciPy, PyTorch, TensorFlow, Keras, NLTK, SpaCy, XGBoost, LightBGM, Gensim, BeautifulSoup, SQLAlchemy, psycopg2, Librosa, PyArrow, RegEx
 
 ---
 
