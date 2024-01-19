@@ -32,27 +32,6 @@ In my first year as a Data Scientist, I have gathered a diverse range of data-re
 
 ---
 
-### Industrial Experience :wrench:
-
-- **Data Pipeline Construction**: Built end-to-end pipelines for raw data processing and model training. 
-- **Configuration Files & OOP**: Utilised .yaml configuration files and built custom modules and classes to enhance project organisation and maintainability.
-- **NLP**:  Improved my skills in NLP, building sophisticated text classification algorithms using embedding technologies like GloVe.
-- **Predictive Model Building**: Improved prediction model building skills, including regression, classification, and time series forecasting.
-- **Data Cleaning & Preparation**: Often handled real-world, messy, and unstructured data, refining my skills in data cleaning, preprocessing, and transformation.
-- **Project Leadership**: Headed up my own projects, further developing my project management and leadership skills.
-- **Collaborative Coding and Version Control**: Used version control systems, such as Git, in a collaborative environment, following best practices for code reviews and merges.
-- **Documentation and Presentation**: Formulated technical documents to outline plans and communicate complex data science concepts to diverse audiences.
-- **Data Formats**: Handled various raw data formats such as .csv, .xlsx, .sql and serialised data objects such as .json, .parquet, .feather and .pkl.
-- **Data Extraction/Parsing**: Adept at retrieving and processing data from different sources such as databases, web scraping, unstructured text and .json files.
-
----
-
-### Professional Aspirations :chart_with_upwards_trend:
-
-My aspiration is to continue providing strategic business solutions by leveraging data science. However, I am also enthusiastic about the potential for using data science in a more scientific or research-oriented context.
-
----
-
 ### Relevant Modules & Experience :books:
 
 **MSc Data Science & AI:**
