@@ -21,7 +21,7 @@
 
 ### About Me :briefcase:
 
-In my first year as a Data Scientist, I have gathered a diverse range of data-related experience following my MSc in Data Science and AI, applying my academic knowledge to real-world scenarios. I have regularly been involved in all aspects of the data lifecycle, from data engineering to building ML models. My BSc in Physics has provided me with a strong quantitative background which complements my data science capabilities, allowing me to approach complex problems from a unique and creative angle.
+I have gathered a diverse range of data-related experience following my MSc in Data Science and AI, applying my academic knowledge to real-world scenarios. I have regularly been involved in all aspects of the data lifecycle, from data engineering to building ML models. My BSc in Physics has provided me with a strong quantitative background which complements my data science capabilities, allowing me to approach complex problems from a unique and creative angle.
 
 ---
 
