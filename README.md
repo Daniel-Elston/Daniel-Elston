@@ -12,7 +12,7 @@
   </a>
   <img src="https://img.shields.io/badge/DoB-05.10.96-blue" alt="Maintainer">
   <img src="https://img.shields.io/badge/os-windows-blue" alt="Maintainer">
-  <img src="https://img.shields.io/badge/Python-3.11.3-blue" alt="Maintainer">
+  <img src="https://img.shields.io/badge/Python-3.12.1-blue" alt="Maintainer">
 </div>
 
 
