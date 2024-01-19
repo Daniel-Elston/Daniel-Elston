@@ -31,43 +31,6 @@ In my first year as a Data Scientist, I have gathered a diverse range of data-re
 - BSc Physics (Hons) Final Year Project: [LHC Particle Beam Detection for CERN][LHC Particle Beam Detection for CERN]. Collaborated with a team of four and received a commendation.
 
 ---
-
-### Relevant Modules & Experience :books:
-
-**MSc Data Science & AI:**
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <ul>
-      <li>Principles of Machine Learning</li>
-      <li>Neural Networks & Deep Learning</li>
-      <li>Programming for AI & Data Science</li>
-      <li>Statistics for AI & Data Science</li>
-      <li>Risk & Decision Making for AI</li>
-      <li>Data Mining</li>
-      <li>Information Retrieval</li>
-      <li>Ethics, Regulation & Law in Advanced Digital <br/>
-        Information Processing and Decision Making</li>
-    </ul>
-  </div>
-
-**Physics:**
-  <div style="flex: 10;">
-    <ul>
-      <li>Quantum Mechanics</li>
-      <li>Quantum Physics</li>
-      <li>Computational Physics</li>
-      <li>Statistical Mechanics</li>
-      <li>Mathematical Physics</li>
-      <li>Computational Physics</li>
-      <li>Probability & Statistics</li>
-      <li>Calculus I, II, III, IV</li>
-      <li>Solid State Physics</li>
-      <li>Nuclear & Particle Physics</li>
-    </ul>
-  </div>
-</div>
-
----
     
 ### Languages and Tools :toolbox:
 
