@@ -30,9 +30,9 @@
 
 [![Daniel's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layout=compact&theme=github_dark)](https://wakatime.com/@Daniel_Elston)
 
-![Wakatime week stats](https://wakatime.com/badge/user/Daniel_Elston/last_7_days.svg)
+![Wakatime week stats](https://wakatime.com/badge/user/@Daniel_Elston/last_7_days.svg)
 
-[![Wakatime stats](https://wakatime.com/badge/github/Daniel_Elston/Credit-Card-Default-Prediction-Algorithm.svg)](https://wakatime.com/badge/github/Daniel_Elston/Credit-Card-Default-Prediction-Algorithm)
+[![Wakatime stats](https://wakatime.com/badge/github/Daniel_Elston/Credit-Card-Default-Prediction-Algorithm.svg)](https://wakatime.com/badge/github/@Daniel_Elston/Credit-Card-Default-Prediction-Algorithm)
 
 
 ---
