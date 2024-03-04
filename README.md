@@ -27,7 +27,15 @@
 
 ### GitHub Profile Statistics :bar_chart:
 
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs)](https://github.com/Daniel-Elston/convoychat)
+
+[![Daniel's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layout=compact&theme=github_dark)](https://wakatime.com/@Daniel_Elston)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark)](https://github.com/Daniel-Elston/github-readme-stats)
+
 ---
+
+### GitHub Profile Statistics :bar_chart:
 
 <a href="https://github.com/Daniel-Elston/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Elston&show_icons=true&theme=github_dark&hide=prs", height='76' />
