@@ -16,15 +16,6 @@
 </div>
 
 
-
----
-
-### About Me :briefcase:
-
-I have gathered a diverse range of data-related experience following my MSc in Data Science and AI, applying my academic knowledge to real-world scenarios. I have regularly been involved in all aspects of the data lifecycle, from data engineering to building ML models. My BSc in Physics has provided me with a strong quantitative background which complements my data science capabilities, allowing me to approach complex problems from a unique and creative angle.
-
----
-
 ### Academic Projects :trophy:
 
 - MSc Data Science & AI (Hons) Dissertation: I developed a dynamic pricing ML algorithm for a leading distributor of car parts at a prestigious Data Science consultancy firm in London.
