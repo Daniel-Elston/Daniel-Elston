@@ -33,6 +33,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Elston&layout=compact&theme=github_dark)](https://github.com/Daniel-Elston/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Elston&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Daniel-Elston&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Daniel's github activity graph](https://activity-graph.herokuapp.com/graph?username=Daniel-Elston&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Daniel-Elston.Daniel-Elston)
+
+![Metrics](https://metrics.lecoq.io/Daniel-Elston?template=classic&config.timezone=Europe%2FLondon)
+
+![Codewars](https://www.codewars.com/users/Daniel-Elston/badges/large)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 ---
 
 ### GitHub Profile Statistics :bar_chart:
