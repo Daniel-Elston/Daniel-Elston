@@ -25,8 +25,6 @@
 
 ---
 
-<br/>
-
 ### GitHub Profile Statistics :bar_chart:
 
 ---
