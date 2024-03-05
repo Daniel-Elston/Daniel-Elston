@@ -19,6 +19,10 @@
 ### Academic Projects :trophy:
 <img align="right" alt="Python" width="75px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-right:1px;"/>
 
+<p align="left">
+  <img src="https://wakatime.com/share/@Daniel_Elston/492aca7e-8eb8-4a0f-a3bc-0b427721e57e.png" width="25%" />
+</p>
+
 - MSc Data Science & AI (Hons) Dissertation: I developed a dynamic pricing ML algorithm for a leading distributor of car parts at a prestigious Data Science consultancy firm in London.
 - BSc Physics (Hons) Final Year Project: [LHC Particle Beam Detection for CERN][LHC Particle Beam Detection for CERN]. Collaborated with a team of four and received a commendation.
 
