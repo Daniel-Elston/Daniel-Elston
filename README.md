@@ -24,12 +24,8 @@
 
 ---
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layout=compact&theme=github_dark)](https://wakatime.com/@Daniel_Elston)
-
-![Daniel's Wakatime Languages](https://wakatime.com/share/@Daniel_Elston/492aca7e-8eb8-4a0f-a3bc-0b427721e57e.png)
-
 <p align="center">
-  <img src="https://wakatime.com/share/@Daniel_Elston/492aca7e-8eb8-4a0f-a3bc-0b427721e57e.png" width="50%" />
+  <img src="https://wakatime.com/share/@Daniel_Elston/492aca7e-8eb8-4a0f-a3bc-0b427721e57e.png" width="75%" />
 </p>
 
 
