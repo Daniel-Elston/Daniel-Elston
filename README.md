@@ -15,8 +15,13 @@
 </div>
 
 ---
+<div align="center">
 
 ### Academic Projects :trophy:
+
+</div>
+
+
 <img align="left" alt="Python" width="100px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-right:1px;"/>
 
 <img align="right" width="15%" src="https://wakatime.com/share/@Daniel_Elston/492aca7e-8eb8-4a0f-a3bc-0b427721e57e.png" style="padding-right:1px;"/>
