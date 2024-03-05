@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="center"> [![Daniel's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layout=compact&theme=github_dark)](https://wakatime.com/@Daniel_Elston) </h2>
+[![Daniel's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Elston&layout=compact&theme=github_dark)](https://wakatime.com/@Daniel_Elston)
 
 ---
 
