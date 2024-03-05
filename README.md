@@ -28,6 +28,11 @@
 
 ![Daniel's Wakatime Languages](https://wakatime.com/share/@Daniel_Elston/492aca7e-8eb8-4a0f-a3bc-0b427721e57e.png)
 
+<p align="center">
+  <img src="https://wakatime.com/share/@Daniel_Elston/492aca7e-8eb8-4a0f-a3bc-0b427721e57e.png" width="50%" />
+</p>
+
+
 
 ---
 
