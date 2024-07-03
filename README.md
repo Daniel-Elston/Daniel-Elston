@@ -2,7 +2,7 @@
 
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/git_ban_1.png)
 
-<h2 align="center"> Data Scientist | MSc Data Science & AI (Hons) | BSc Physics (Hons) </h2><br/>
+<h2 align="center"> Data Scientist | MSc Data Science & AI | BSc Physics </h2><br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/DS-AI-blue" alt="Maintainer">
