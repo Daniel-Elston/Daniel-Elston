@@ -11,7 +11,7 @@
     <img src="https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg" alt="wakatime">
   </a>
   <img src="https://img.shields.io/badge/linux-windows-blue" alt="Maintainer">
-  <img src="https://img.shields.io/badge/Python-3.12.2-blue" alt="Maintainer">
+  <img src="https://img.shields.io/badge/Python-3.13-blue" alt="Maintainer">
 </div>
 
 <div align="center">
