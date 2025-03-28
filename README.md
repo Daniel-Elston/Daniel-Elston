@@ -15,7 +15,9 @@
 </div>
 
 <div align="center" style="padding-right:200px">
-## Experience & Projects
+  
+### Experience & Projects
+
 </div>
 
 <img align="right" width="15%" src="https://wakatime.com/share/@Daniel_Elston/0499e0c5-0233-46f9-b88e-46106b2bcd57.png" style="padding-top:20px;"/>
