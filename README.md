@@ -1,6 +1,6 @@
 <h2 align="center">Hello, World!</h2>
 
-<img src="https://github.com/Daniel-Elston/Daniel-Elston/blob/main/git_ban_1.png" alt="Banner">
+![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/git_ban_1.png)
 
 <h2 align="center"> Data Scientist | MSc Data Science & AI | BSc Physics </h2><br/>
 
