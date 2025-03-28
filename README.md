@@ -40,11 +40,8 @@
 
 <img align="right" width="15%" src="https://wakatime.com/share/@Daniel_Elston/0499e0c5-0233-46f9-b88e-46106b2bcd57.png" style="padding-top:15px;"/>
 
-<!-- <img align="right" alt="Python" width="85px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-top:10px;"/>
-<img align="right" alt="Rust" width="70px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="padding-top:20px;"/> -->
-
-- **MSc Data Science & AI Dissertation:** Developed a ML dynamic pricing solution for a major car parts distributor at a data consultancy.
-- **BSc Physics Capstone Project:** Collaborated on [LHC Particle Beam Detection for CERN][LHC Particle Beam Detection for CERN], earning a team commendation.
+- **DS & AI Dissertation:** Developed a ML dynamic pricing solution for a major car parts distributor.
+- **Physics Capstone Project:** Collaborated on [LHC Particle Beam Detection for CERN][LHC Particle Beam Detection for CERN], earning a commendation.
 - **Rust Exploration:** Integrating Rust into projects to optimize system-level performance in data processing.
 - **Additional Projects:** Please see my repositories for GenAI, NLP, Data Engineering, Deep Learning and more.
 
