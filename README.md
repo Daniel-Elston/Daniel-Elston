@@ -27,10 +27,3 @@
 
 </details>
 
-[LHC Particle Beam Detection for CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
-[industrial group project with CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
-[final year project]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
-[CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
-[movie recommendation application]: https://github.com/Daniel-Elston/Movie-Recommendation-Application
-[movie recommendation application]: https://github.com/Daniel-Elston/Movie-Recommendation-Application
-[credit card default prediction algorithm]: https://github.com/Daniel-Elston/Credit-Card-Default-Prediction-Algorithm
