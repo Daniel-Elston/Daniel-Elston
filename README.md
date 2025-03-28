@@ -13,6 +13,9 @@
 <p align="center">
  Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, and AI.
 </p>
+<p align="center">
+ Python Programming for 4 years. Currently integrating Rust into projects to optimize system-level performance in data processing.
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/DS-AI-blue" alt="DS-AI">
