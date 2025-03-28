@@ -18,6 +18,8 @@
  Python Programming for 4+ years, currently learning Rust.
 </p>
 
+<br>
+ 
 <div align="center">
   <img src="https://img.shields.io/badge/DS-AI-blue" alt="DS-AI">
    <img src="https://img.shields.io/badge/Python-Rust-blue" alt="Python">
