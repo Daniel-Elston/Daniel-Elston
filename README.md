@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
- Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, and AI.
+ Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, and AI.<br>
  Python Programming for 4+ years, currently learning Rust.
 </p>
 
