@@ -1,6 +1,6 @@
-<h2 align="center"> Hello, World! </h2>
+### Hello, World!
 
----
+<br/>
 
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/git_ban_1.png)
 
