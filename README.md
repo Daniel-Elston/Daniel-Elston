@@ -1,8 +1,4 @@
-<div align="center" style="padding-right:200px">
-
-### Hello, World!
-
-</div>
+<h2 align="center"> Hello, World! </h2>
 
 ---
 
