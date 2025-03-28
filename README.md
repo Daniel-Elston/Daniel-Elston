@@ -2,7 +2,13 @@
 
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/git_ban_1.png)
 
-<h2 align="center"> Data Scientist | MSc Data Science & AI | BSc Physics </h2><br/>
+<br/>
+
+<div align="center" style="padding-right:200px">
+
+### Data Scientist | MSc Data Science & AI | BSc Physics
+
+</div>
 
 <p align="center">
  Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, and AI.
