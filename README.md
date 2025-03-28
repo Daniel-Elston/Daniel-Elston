@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3.13-blue" alt="Python">
 </div>
 
-<div align="center" style="padding-right:200px">
+<div align="left">
   
 ### Experience & Projects
 
