@@ -28,7 +28,7 @@
   <a href="https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a">
     <img src="https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg" alt="WakaTime">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Daniel-ELston" alt="Profile Views">
+  <!--<img src="https://komarev.com/ghpvc/?username=Daniel-ELston" alt="Profile Views"> -->
 </div>
 
 ---
