@@ -1,3 +1,6 @@
+---
+
+
 <h2 align="center">Hello, World!</h2>
 
 <p align="center">
@@ -19,16 +22,18 @@
 </div>
 
 <!-- ## Tech Stack -->
-<p align="left">
-  <img align="left" alt="Python" width="80px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-right:1px;"/>
-  <img align="left" alt="Rust" width="70px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="padding-right:1px;"/>
-</p>
 
 <div align="center" style="padding-right:200px">
 
 ## Experience & Projects
 
 </div>
+<p align="left">
+  <img align="right" width="15%" src="https://wakatime.com/share/@Daniel_Elston/0499e0c5-0233-46f9-b88e-46106b2bcd57.png" style="padding-top:20px;"/>
+
+  <img align="right" alt="Python" width="85px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-top:10px;"/>
+  <img align="right" alt="Rust" width="70px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="padding-top:20px;"/>
+</p>
 
 - **MSc Data Science & AI Dissertation:** Developed a ML dynamic pricing solution for a major car parts distributor, at a data consultancy.
 - **BSc Physics Capstone Project:** Collaborated on [LHC Particle Beam Detection for CERN][LHC Particle Beam Detection for CERN], earning a team commendation.
