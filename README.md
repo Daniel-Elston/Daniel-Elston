@@ -12,8 +12,7 @@
 
 <p align="center">
  Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, and AI.
-</p>
-<p align="center">
+
  Python Programming for 4+ years, currently learning Rust.
 </p>
 
@@ -42,7 +41,7 @@
 
 - **MSc Data Science & AI Dissertation:** Developed a ML dynamic pricing solution for a major car parts distributor at a data consultancy.
 - **BSc Physics Capstone Project:** Collaborated on [LHC Particle Beam Detection for CERN][LHC Particle Beam Detection for CERN], earning a team commendation.
-- **Rust Exploration:** Currently integrating Rust into projects to optimize system-level performance in data processing.
+- **Rust Exploration:** Integrating Rust into projects to optimize system-level performance in data processing.
 - **Additional Projects:** Please see my repositories for GenAI, NLP, Data Engineering, Deep Learning and more.
 
 [LHC Particle Beam Detection for CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
