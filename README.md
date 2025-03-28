@@ -40,9 +40,9 @@
 <img align="right" alt="Python" width="85px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-top:10px;"/>
 <img align="right" alt="Rust" width="70px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="padding-top:20px;"/>
 
-- **MSc Data Science & AI Dissertation:** Developed a ML dynamic pricing solution for a major car parts distributor, at a data consultancy.
+- **MSc Data Science & AI Dissertation:** Developed a ML dynamic pricing solution for a major car parts distributor at a data consultancy.
 - **BSc Physics Capstone Project:** Collaborated on [LHC Particle Beam Detection for CERN][LHC Particle Beam Detection for CERN], earning a team commendation.
 - **Rust Exploration:** Currently integrating Rust into projects to optimize system-level performance in data processing.
-- **Additional Projects:** Please see my repositories for more on GenAI, Data Engineering, NLP, anomaly detection, and advanced ML models.
+- **Additional Projects:** Please see my repositories for GenAI, NLP, Data Engineering, Deep Learning and more.
 
 [LHC Particle Beam Detection for CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
