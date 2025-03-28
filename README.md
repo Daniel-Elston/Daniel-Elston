@@ -43,6 +43,6 @@
 - **DS & AI Dissertation:** Developed a ML dynamic pricing solution for a major car parts distributor.
 - **Physics Capstone Project:** Collaborated on [LHC Particle Beam Detection for CERN][LHC Particle Beam Detection for CERN], earning a commendation.
 - **Rust Exploration:** Integrating Rust into projects to optimize system-level performance in data processing.
-- **Additional Projects:** Please see my repositories for GenAI, NLP, Data Engineering, Deep Learning and more.
+- **Additional Projects:** Explore my repositories for GenAI, NLP, Data Engineering, Deep Learning and more.
 
 [LHC Particle Beam Detection for CERN]: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
