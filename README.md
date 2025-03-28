@@ -20,12 +20,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/DS-AI-blue" alt="DS-AI">
+   <img src="https://img.shields.io/badge/Python-Rust-blue" alt="Python">
   <img src="https://komarev.com/ghpvc/?username=Daniel-ELston" alt="Profile Views">
   <a href="https://wakatime.com/@8a642323-faad-4646-b7ab-67d41a83949a">
     <img src="https://wakatime.com/badge/user/8a642323-faad-4646-b7ab-67d41a83949a.svg" alt="WakaTime">
   </a>
   <img src="https://img.shields.io/badge/linux-windows-blue" alt="OS">
-  <img src="https://img.shields.io/badge/Python-3.13-blue" alt="Python">
 </div>
 
 ---
