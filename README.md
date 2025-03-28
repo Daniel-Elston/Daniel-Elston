@@ -4,6 +4,10 @@
 
 <h2 align="center"> Data Scientist | MSc Data Science & AI | BSc Physics </h2><br/>
 
+<p align="center">
+ Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, and AI.
+</p>
+
 <div align="center">
   <img src="https://img.shields.io/badge/DS-AI-blue" alt="DS-AI">
   <img src="https://komarev.com/ghpvc/?username=Daniel-ELston" alt="Profile Views">
