@@ -2,7 +2,7 @@
 
 ![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/git_ban_1.png)
 
-<br/>
+---
 
 <div align="center" style="padding-right:200px">
 
@@ -24,7 +24,9 @@
   <img src="https://img.shields.io/badge/Python-3.13-blue" alt="Python">
 </div>
 
-<div align="left">
+---
+
+<div align="center" style="padding-right:200px">
   
 ### Experience & Projects
 
