@@ -13,15 +13,13 @@
   <img src="https://img.shields.io/badge/linux-windows-blue" alt="Maintainer">
   <img src="https://img.shields.io/badge/Python-3.13-blue" alt="Maintainer">
 </div>
-<img align="right" alt="Python" width="100px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="padding-right:1px;"/>
-<img align="left" alt="Python" width="100px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-right:1px;"/>
 <div align="center">
 
 ### Academic Projects :trophy:
 
 </div>
 
-
+<img align="left" alt="Python" width="100px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-right:1px;"/>
 <img align="right" width="15%" src="https://wakatime.com/share/@Daniel_Elston/0499e0c5-0233-46f9-b88e-46106b2bcd57.png" style="padding-right:1px;"/>
 
 - MSc Data Science & AI (Hons) Dissertation: I developed a dynamic pricing ML algorithm for a leading distributor of car parts at a prestigious Data Science consultancy firm in London.
