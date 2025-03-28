@@ -14,7 +14,7 @@
  Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, and AI.
 </p>
 <p align="center">
- Python Programming for 4 years. Currently integrating Rust into projects to optimize system-level performance in data processing.
+ Python Programming for 4+ years, currently learning Rust.
 </p>
 
 <div align="center">
