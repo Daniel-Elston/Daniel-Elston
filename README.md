@@ -4,7 +4,6 @@
 
 <h2 align="center"> Data Scientist | MSc Data Science & AI | BSc Physics </h2><br/>
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/DS-AI-blue" alt="DS-AI">
   <img src="https://komarev.com/ghpvc/?username=Daniel-ELston" alt="Profile Views">
@@ -15,13 +14,10 @@
   <img src="https://img.shields.io/badge/Python-3.13-blue" alt="Python">
 </div>
 
-<!-- ## Tech Stack -->
-
 <div align="center" style="padding-right:200px">
-
 ## Experience & Projects
-
 </div>
+
 <img align="right" width="15%" src="https://wakatime.com/share/@Daniel_Elston/0499e0c5-0233-46f9-b88e-46106b2bcd57.png" style="padding-top:20px;"/>
 
 <img align="right" alt="Python" width="85px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-top:10px;"/>
