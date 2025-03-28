@@ -12,7 +12,6 @@
 
 <p align="center">
  Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, and AI.
-
  Python Programming for 4+ years, currently learning Rust.
 </p>
 
