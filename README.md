@@ -7,7 +7,7 @@
 <div align="center" style="padding-right:200px">
 
 <img align="left" alt="Python" width="100px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-top:10px;"/>
-<img align="right" alt="Rust" width="95px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="padding-top:20px;"/>
+<img align="right" alt="Rust" width="95px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="padding-top:25px;"/>
 
 ### Data Scientist | MSc Data Science & AI | BSc Physics
 
