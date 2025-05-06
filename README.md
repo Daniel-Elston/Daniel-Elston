@@ -9,12 +9,12 @@
 <img align="left" alt="Python" width="100px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-top:10px;"/>
 <img align="right" alt="Rust" width="85px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="padding-top:40px;"/>
 
-### Data Scientist | MSc Data Science & AI | BSc Physics
+### Senior Data Scientist | MSc Data Science & AI | BSc Physics
 
 </div>
 
 <p align="center">
- Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, and AI.<br>
+ Senior Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, and AI.<br>
  Python Programming for 4+ years, currently learning Rust.
 </p>
 
