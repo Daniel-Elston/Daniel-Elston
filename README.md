@@ -6,7 +6,9 @@
 
 <div align="center" style="padding-right:200px">
 
-<img align="left" alt="Python" width="100px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" style="padding-top:10px;"/>
+https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png
+
+<img align="left" alt="Python" width="100px" src="[https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)" style="padding-top:10px;"/>
 <img align="right" alt="Rust" width="85px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="padding-top:40px;"/>
 
 ### Senior Data Scientist | MSc Data Science & AI | BSc Physics
