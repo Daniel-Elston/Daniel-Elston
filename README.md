@@ -14,8 +14,8 @@
 </div>
 
 <p align="center">
- Senior Data Scientist with 3+ years of industrial experience in Data Science, Machine Learning, & AI.<br>
- Python Programming for 4+ years, currently learning Rust.
+ Senior Data Scientist with 4+ years of industrial experience in Data Science, Machine Learning, & AI.<br>
+ Python Programming for 5+ years, currently learning Rust.
 </p>
 
 <br>
