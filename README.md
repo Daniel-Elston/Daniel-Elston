@@ -35,7 +35,7 @@
 
 <div align="center" style="padding-right:200px">
   
-### Experience & Projects
+### Academia & Side Projects
 
 </div>
 
