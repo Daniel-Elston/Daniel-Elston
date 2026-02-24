@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
- Senior Systems ML Engineer with 4+ years of industrial experience in Data Science, Machine Learning, & AI.<br>
+ Senior Systems ML Engineer with 4+ years of industrial experience in Data Science, ML/DL & AI.<br>
  Python Programming for 5+ years, currently learning Rust.
 </p>
 
