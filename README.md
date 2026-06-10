@@ -9,13 +9,13 @@
 <img align="left" alt="Python" width="85px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="padding-top:10px;"/>
 <img align="right" alt="Rust" width="85px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="padding-top:40px;"/>
 
-### Senior ML Engineer | MSc Data Science & AI | BSc Physics
+### Senior AI Engineer (R&D) | MSc Data Science & AI | BSc Physics
 
 </div>
 
 <p align="center">
- Senior ML Engineer with 4+ years of industrial experience in Data Science, ML/DL & AI.<br>
- Python Programming for 5+ years, currently learning Rust.
+ Senior AI Engineer (R&D) with 5+ years of industrial experience in Data Science, ML/DL & AI.<br>
+ Python Programming for 6+ years, currently learning Rust.
 </p>
 
 <br>
